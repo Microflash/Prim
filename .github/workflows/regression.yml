@@ -2,9 +2,6 @@ name: Regression tests
 
 on: [push, pull_request]
 
-env:
-  VALE_VERSION: 3.2.2
-
 jobs:
 
   tests:
@@ -14,20 +11,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Check cached Vale
-        id: cache-vale
-        uses: actions/cache@v4
-        with:
-          path: bin
-          key: vale-${{ env.VALE_VERSION }}
-      - name: Install Vale
-        if: steps.cache-vale.outputs.cache-hit != 'true'
-        run: |
-          wget https://github.com/errata-ai/vale/releases/download/v${VALE_VERSION}/vale_${VALE_VERSION}_Linux_64-bit.tar.gz
-          mkdir bin && tar -xvzf vale_${VALE_VERSION}_Linux_64-bit.tar.gz -C bin
-          echo "./bin" >> $GITHUB_PATH
-      - name: Verify Vale
-        run: vale --version
       - name: Setup PNPM
         uses: pnpm/action-setup@v3
         with:
@@ -39,5 +22,13 @@ jobs:
           cache: 'pnpm'
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+      - name: Install Vale
+        uses: supplypike/setup-bin@v3
+        with:
+          uri: 'https://github.com/errata-ai/vale/releases/download/v${{ env.VALE_VERSION }}/vale_${{ env.VALE_VERSION }}_Linux_64-bit.tar.gz'
+          name: 'vale'
+          version: ${{ env.VALE_VERSION }}
+        env:
+          VALE_VERSION: 3.2.2
       - name: Run tests
         run: pnpm test

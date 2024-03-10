@@ -19,10 +19,11 @@ function trimEveryLine(multiline) {
 		.join("\n");
 }
 
-test.each(scenario)(`Testing %s`, async (rule, expected) => {
+test.each(scenario)(`Test: %s`, async (rule, expected) => {
 	let result;
 	try {
 		const cwd = path.resolve(process.cwd(), fixturesDirectory, rule);
+		console.log(cwd);
 		const output = await execa(command, args, { cwd: cwd });
 		result = output.stdout;
 	} catch (error) {
