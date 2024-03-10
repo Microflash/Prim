@@ -1,0 +1,33 @@
+name: Regression tests
+
+on: [push, pull_request]
+
+jobs:
+
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install Vale
+        run: |
+          wget https://github.com/errata-ai/vale/releases/download/v${VALE_VERSION}/vale_${VALE_VERSION}_Linux_64-bit.tar.gz
+          mkdir bin && tar -xvzf vale_${VALE_VERSION}_Linux_64-bit.tar.gz -C bin
+          echo "./bin" >> $GITHUB_PATH
+        env:
+          VALE_VERSION: 3.2.2
+      - name: Setup PNPM
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Run tests
+        run: pnpm test
