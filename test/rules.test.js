@@ -13,6 +13,12 @@ const args = [
 ]
 const fixturesDirectory = "fixtures";
 
+function trimEveryLine(multiline) {
+	return multiline.trim().split(/\r?\n/)
+		.map(line => line.trim())
+		.join("\n");
+}
+
 test.each(scenario)(`Testing %s`, async (rule, expected) => {
 	let result;
 	try {
@@ -23,5 +29,5 @@ test.each(scenario)(`Testing %s`, async (rule, expected) => {
 		result = error.stdout;
 	}
 
-	expect.soft(result.trim()).toBe(expected.trim());
+	expect.soft(trimEveryLine(result)).toBe(trimEveryLine(expected));
 });
