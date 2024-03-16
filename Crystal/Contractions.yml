@@ -1,0 +1,53 @@
+extends: substitution
+message: "Avoid contractions. Use '%s' instead of '%s'."
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  (?i)a\.k\.a|aka: or|also known as
+  "aren't": are not
+  "can't": cannot
+  "could've": could have
+  "couldn't": could not
+  "didn't": did not
+  "don't": do not
+  "doesn't": does not
+  "hadn't": had not
+  "hasn't": has not
+  "haven't": have not
+  "he'd": he had|he would
+  "here'd": here had|here would
+  "how'd": how did|how would
+  "how's": how is
+  "how'll": how will
+  "I'd": I had|I would
+  "isn't": is not
+  "it'd": it had|it would
+  "it's": it is|it has
+  "it'll": it will|it shall
+  "let's": let us
+  "she'd": she had|she would
+  "should've": should have
+  "shouldn't": should not
+  "somebody'd": somebody had|somebody would
+  "someone'd": someone had|someone would
+  "that'd": that had|that would
+  "that's": that is|that has
+  "that'll": that will
+  "they're": they are
+  "they'd": they had|they would
+  "they'll": they will|they shall
+  "there'd": there would|there had
+  "wasn't": was not
+  "we're": we are
+  "we've": we have
+  "we'll": we will
+  "we'd": we would|we had
+  # "what'd": what did|what had|what would
+  # "when'd": when did|when had|when would
+  # "where'd": where did|where had|where would
+  # "which'd": which did|which had|which would
+  # "who'd": who did|who had|who would
+  # "why'd": why did|why had|why would
+  # "you'd": you did|you had|you would
