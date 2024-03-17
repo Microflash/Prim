@@ -166,3 +166,88 @@ We'd already finished our homework by the time you called.
 
 <!-- weren't -->
 The roads weren't as congested as we had anticipated.
+
+<!-- what'd -->
+What'd you do over the weekend?
+
+<!-- what's -->
+What's the time?
+
+<!-- what'll -->
+What'll it cost to repair the car?
+
+<!-- when'd -->
+When'd they announce the winner?
+
+<!-- when's -->
+When's your birthday?
+When's the last time it has snowed this much in our area?
+
+<!-- when'll -->
+When'll we have another meeting?
+
+<!-- where'd -->
+Where'd you learn to dance like that?
+
+<!-- where's -->
+Where's the nearest gas station?
+Where's all the excitement gone? This party was supposed to be fun.
+
+<!-- where'll -->
+Where'll you go for your next holiday?
+
+<!-- which'd -->
+Which'd you rather have, coffee or tea?
+
+<!-- who'd -->
+Who'd you think will win the election?
+
+<!-- who're -->
+Who're the members of the jury?
+
+<!-- who's -->
+Who's been using my computer without permission?
+Who's in charge of organizing the event?
+
+<!-- who'll -->
+Who'll pick up the kids from school this afternoon?
+
+<!-- why're -->
+Why're you so quiet today?
+
+<!-- why'd -->
+Why'd he say that to you?
+
+<!-- why's -->
+Why's the internet connection so slow?
+
+<!-- will've -->
+She will've already left for her vacation by next week.
+
+<!-- won't -->
+He won't stop talking about his new car.
+
+<!-- w/ -->
+I am going w/ my friends to the concert tonight.
+
+<!-- w/o -->
+Please complete the form w/o any errors.
+
+<!-- would've -->
+I would've finished the project earlier if I had more time.
+
+<!-- wouldn't -->
+He wouldn't let me borrow his car for the weekend.
+
+<!-- you're -->
+Are you sure you're feeling okay?
+
+<!-- you'd -->
+You'd better hurry if you want to catch the train.
+If you'd told me earlier, I could have helped you.
+
+<!-- you've -->
+I see you've already made dinner; thank you!
+
+<!-- you'll -->
+You'll regret not taking that opportunity.

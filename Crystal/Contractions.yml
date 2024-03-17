@@ -55,30 +55,30 @@ swap:
   "we'll": we will
   "we'd": we would|we had
   "weren't": were not
-  # "what'd": what did|what had|what would
-  # "what's": what is
-  # "what'll": what will
-  # "when'd": when did|when had|when would
-  # "when's": when is
-  # "when'll": when will
-  # "where'd": where did|where had|where would
-  # "where's": where is
-  # "where'll": where will
-  # "which'd": which did|which had|which would
-  # "who'd": who did|who had|who would
-  # "who're": who are
-  # "who's": who is
-  # "who'll": who will
-  # "why'd": why did|why had|why would
-  # "why's": why is|why has
-  # "why'll": why will|why shall
-  # "will've": will have
-  # "won't": will not
-  # "w/(?!o) ": "with "
-  # "w/o": without
-  # "would've": would have
-  # "wouldn't": would not
-  # "you're": you are
-  # "you'd": you did|you had|you would
-  # "you've": you have
-  # "you'll": you will|you shall
+  "what'd": what did
+  "what's": what is
+  "what'll": what will
+  "when'd": when did
+  "when's": when is|when has
+  "when'll": when will
+  "where'd": where did
+  "where's": where is|where has
+  "where'll": where will
+  "which'd": which would|which had
+  "who'd": who had|who would
+  "who're": who are
+  "who's": who is|who has
+  "who'll": who will
+  "why're": why are
+  "why'd": why did|why would
+  "why's": why is|why has
+  "will've": will have
+  "won't": will not
+  "w/(?!o) ": "with "
+  "w/o": without
+  "would've": would have
+  "wouldn't": would not
+  "you're": you are
+  "you'd": you had|you would
+  "you've": you have
+  "you'll": you will

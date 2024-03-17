@@ -68,5 +68,36 @@ export default [
 	test.md:164:1:Crystal.Contractions:Avoid contractions. Use 'We would' or 'We had' instead of 'We'd'.
 	test.md:165:1:Crystal.Contractions:Avoid contractions. Use 'We would' or 'We had' instead of 'We'd'.
 	test.md:168:11:Crystal.Contractions:Avoid contractions. Use 'were not' instead of 'weren't'.
+	test.md:171:1:Crystal.Contractions:Avoid contractions. Use 'What did' instead of 'What'd'.
+	test.md:174:1:Crystal.Contractions:Avoid contractions. Use 'What is' instead of 'What's'.
+	test.md:177:1:Crystal.Contractions:Avoid contractions. Use 'What will' instead of 'What'll'.
+	test.md:180:1:Crystal.Contractions:Avoid contractions. Use 'When did' instead of 'When'd'.
+	test.md:183:1:Crystal.Contractions:Avoid contractions. Use 'When is' or 'When has' instead of 'When's'.
+	test.md:184:1:Crystal.Contractions:Avoid contractions. Use 'When is' or 'When has' instead of 'When's'.
+	test.md:187:1:Crystal.Contractions:Avoid contractions. Use 'When will' instead of 'When'll'.
+	test.md:190:1:Crystal.Contractions:Avoid contractions. Use 'Where did' instead of 'Where'd'.
+	test.md:193:1:Crystal.Contractions:Avoid contractions. Use 'Where is' or 'Where has' instead of 'Where's'.
+	test.md:194:1:Crystal.Contractions:Avoid contractions. Use 'Where is' or 'Where has' instead of 'Where's'.
+	test.md:197:1:Crystal.Contractions:Avoid contractions. Use 'Where will' instead of 'Where'll'.
+	test.md:200:1:Crystal.Contractions:Avoid contractions. Use 'Which would' or 'Which had' instead of 'Which'd'.
+	test.md:203:1:Crystal.Contractions:Avoid contractions. Use 'Who had' or 'Who would' instead of 'Who'd'.
+	test.md:206:1:Crystal.Contractions:Avoid contractions. Use 'Who are' instead of 'Who're'.
+	test.md:209:1:Crystal.Contractions:Avoid contractions. Use 'Who is' or 'Who has' instead of 'Who's'.
+	test.md:210:1:Crystal.Contractions:Avoid contractions. Use 'Who is' or 'Who has' instead of 'Who's'.
+	test.md:213:1:Crystal.Contractions:Avoid contractions. Use 'Who will' instead of 'Who'll'.
+	test.md:216:1:Crystal.Contractions:Avoid contractions. Use 'Why are' instead of 'Why're'.
+	test.md:219:1:Crystal.Contractions:Avoid contractions. Use 'Why did' or 'Why would' instead of 'Why'd'.
+	test.md:222:1:Crystal.Contractions:Avoid contractions. Use 'Why is' or 'Why has' instead of 'Why's'.
+	test.md:225:5:Crystal.Contractions:Avoid contractions. Use 'will have' instead of 'will've'.
+	test.md:228:4:Crystal.Contractions:Avoid contractions. Use 'will not' instead of 'won't'.
+	test.md:231:12:Crystal.Contractions:Avoid contractions. Use 'with ' instead of 'w/'.
+	test.md:234:26:Crystal.Contractions:Avoid contractions. Use 'without' instead of 'w/o'.
+	test.md:237:3:Crystal.Contractions:Avoid contractions. Use 'would have' instead of 'would've'.
+	test.md:240:4:Crystal.Contractions:Avoid contractions. Use 'would not' instead of 'wouldn't'.
+	test.md:243:14:Crystal.Contractions:Avoid contractions. Use 'you are' instead of 'you're'.
+	test.md:246:1:Crystal.Contractions:Avoid contractions. Use 'You had' or 'You would' instead of 'You'd'.
+	test.md:247:4:Crystal.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'you'd'.
+	test.md:250:7:Crystal.Contractions:Avoid contractions. Use 'you have' instead of 'you've'.
+	test.md:253:1:Crystal.Contractions:Avoid contractions. Use 'You will' instead of 'You'll'.
 	`
 ];
