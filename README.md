@@ -2,7 +2,7 @@
 
 [![Regression tests](https://github.com/Microflash/crystal/actions/workflows/regression.yml/badge.svg)](https://github.com/Microflash/crystal/actions/workflows/regression.yml)
 
-A [Vale](https://vale.sh)-compatible English prose style for non-native English speakers. Tailored for technical documentation.
+A [Vale](https://vale.sh)-compatible prose style for non-native English speakers. Tailored for technical documentation.
 
 ## Guiding principles
 
