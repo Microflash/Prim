@@ -1,3 +1,4 @@
+import AbbreviationPeriods from "./AbbreviationPeriods/index.js";
 import AMPM from "./AMPM/index.js";
 import Contractions from "./Contractions/index.js";
 import Ellipsis from "./Ellipsis/index.js";
@@ -12,6 +13,7 @@ import SentenceLength from "./SentenceLength/index.js";
 import Space from "./Space/index.js";
 
 export default [
+	AbbreviationPeriods,
 	AMPM,
 	Contractions,
 	Ellipsis,
