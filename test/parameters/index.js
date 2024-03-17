@@ -1,3 +1,4 @@
+import AMPM from "./AMPM/index.js";
 import Contractions from "./Contractions/index.js";
 import Ellipsis from "./Ellipsis/index.js";
 import EmDash from "./EmDash/index.js";
@@ -9,6 +10,7 @@ import SentenceLength from "./SentenceLength/index.js";
 import Space from "./Space/index.js";
 
 export default [
+	AMPM,
 	Contractions,
 	Ellipsis,
 	EmDash,
