@@ -5,6 +5,7 @@ import EnDash from "./EnDash/index.js";
 import Latin from "./Latin/index.js";
 import Semicolon from "./Semicolon/index.js";
 import SentenceLength from "./SentenceLength/index.js";
+import Space from "./Space/index.js";
 
 export default [
 	Contractions,
@@ -13,5 +14,6 @@ export default [
 	EnDash,
 	Latin,
 	Semicolon,
-	SentenceLength
+	SentenceLength,
+	Space
 ];
