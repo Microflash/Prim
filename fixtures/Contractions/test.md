@@ -38,9 +38,19 @@ They haven't decided on a venue for the wedding.
 He'd already finished his homework before dinner.
 He'd like to go to the movies tonight.
 
+<!-- he's -->
+He's going to the store to buy some groceries.
+He's always been a reliable friend who can be counted on.
+
+<!-- he'll -->
+He'll be here soon, so please wait for him patiently.
+
 <!-- here'd -->
 Here'd been where we parked the car.
 Here'd we go again with another delay.
+
+<!-- here's -->
+Here's your coat; you left it in the car.
 
 <!-- how'd -->
 How'd you get here so fast?
@@ -52,8 +62,17 @@ How's the weather outside?
 <!-- how'll -->
 How'll it affect our plans to spin off the stock?
 
+<!-- I'm -->
+I'm thinking of starting a new hobby.
+
 <!-- I'd -->
 I'd visited Paris once before, but I'd like to go again.
+
+<!-- I've -->
+I've heard great things about that restaurant; we should try it.
+
+<!-- I'll -->
+I'll call you as soon as I get home.
 
 <!-- isn't -->
 The store isn't open on Sundays.
@@ -75,6 +94,13 @@ Let's not waste any more time on this problem.
 <!-- she'd -->
 She'd already left by the time I arrived.
 She'd love to join us for dinner tonight.
+
+<!-- she's -->
+She's coming over for dinner tonight.
+She's been working at the company for ten years.
+
+<!-- she'll -->
+She'll probably choose the red dress for the party.
 
 <!-- should've -->
 I should've studied more for the exam.
@@ -108,9 +134,16 @@ Do you know where they're from?
 There'd always been a strong sense of community in that neighborhood.
 There'd be no problem if you arrive a bit earlier.
 
+<!-- there's -->
+There's a problem with the printer.
+There's been a conflict in this region for ages.
+
 <!-- they'd -->
 I heard they'd finished the project ahead of schedule.
 They'd love to join us for dinner tonight.
+
+<!-- they've -->
+They've decided to move to a different city.
 
 <!-- they'll -->
 If they finish their work early, they'll join us for dinner.
@@ -130,3 +163,6 @@ We'll have to wait and see what happens.
 <!-- we'd -->
 We'd love to join you for dinner tomorrow.
 We'd already finished our homework by the time you called.
+
+<!-- weren't -->
+The roads weren't as congested as we had anticipated.
