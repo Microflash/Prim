@@ -1,5 +1,8 @@
 # Contractions
 
+<!-- a11y -->
+Accessible content benefits everyone - embrace a11y.
+
 <!-- aka -->
 The artist, aka Banksy, remains anonymous.
 She goes by the name Kate, a.k.a. Katherine.
@@ -24,6 +27,9 @@ I don't like spicy food.
 
 <!-- doesn't -->
 The new software version doesn't include all the features from the previous version.
+
+<!-- g11n -->
+Effective g11n strategies can help companies expand their global reach.
 
 <!-- hadn't -->
 We hadn't visited that museum since we were kids.
@@ -74,6 +80,9 @@ I've heard great things about that restaurant; we should try it.
 <!-- I'll -->
 I'll call you as soon as I get home.
 
+<!-- i18n -->
+The i18n framework we use simplifies the process of translating our website.
+
 <!-- isn't -->
 The store isn't open on Sundays.
 
@@ -88,8 +97,17 @@ It's great to see you again!
 <!-- it'll -->
 It'll take about an hour to drive to the airport.
 
+<!-- k8s -->
+We use k8s to orchestrate Docker containers across multiple nodes.
+
 <!-- let's -->
 Let's not waste any more time on this problem.
+
+<!-- l10n -->
+The l10n team is responsible for adapting the app for different cultural preferences.
+
+<!-- p13n -->
+The fitness app's p13n features adapt workout plans to match your fitness level and goals.
 
 <!-- she'd -->
 She'd already left by the time I arrived.

@@ -5,6 +5,7 @@ ignorecase: true
 action:
   name: replace
 swap:
+  a11y: accessibility
   (?i)a\.k\.a|aka: or|also known as
   "aren't": are not
   "can't": cannot
@@ -13,6 +14,7 @@ swap:
   "didn't": did not
   "don't": do not
   "doesn't": does not
+  g11n: globalization
   "hadn't": had not
   "hasn't": has not
   "haven't": have not
@@ -28,11 +30,15 @@ swap:
   "I'd": I had|I would
   "I've": I have
   "I'll": I will
+  i18n: internationalization
   "isn't": is not
   "it'd": it had|it would
   "it's": it is|it has
   "it'll": it will|it shall
+  k8s: Kubernetes
   "let's": let us
+  l10n: localization
+  p13n: personalization
   "she'd": she had|she would
   "she's": she is|she has
   "she'll": she will|she shall
