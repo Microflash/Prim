@@ -1,7 +1,7 @@
 import path from "path";
 import { execa } from "execa";
 import { expect, test } from "vitest";
-import scenario from "./parameters/index.js";
+import scenario from "./rules.parameters.js";
 
 const command = "vale";
 const args = [
@@ -13,12 +13,6 @@ const args = [
 ]
 const fixturesDirectory = "fixtures";
 
-function trimEveryLine(multiline) {
-	return multiline.trim().split(/\r?\n/)
-		.map(line => line.trim())
-		.join("\n");
-}
-
 test.each(scenario)(`Test: %s`, async (rule, expected) => {
 	let result;
 	try {
@@ -29,5 +23,5 @@ test.each(scenario)(`Test: %s`, async (rule, expected) => {
 		result = error.stdout;
 	}
 
-	expect.soft(trimEveryLine(result)).toBe(trimEveryLine(expected));
+	expect.soft(result.trim()).toBe(expected);
 });
