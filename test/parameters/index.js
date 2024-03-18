@@ -11,6 +11,7 @@ import Percentages from "./Percentages/index.js";
 import Semicolon from "./Semicolon/index.js";
 import SentenceLength from "./SentenceLength/index.js";
 import Space from "./Space/index.js";
+import WordRepitition from "./WordRepitition/index.js";
 
 export default [
 	AbbreviationPeriods,
@@ -25,5 +26,6 @@ export default [
 	Percentages,
 	Semicolon,
 	SentenceLength,
-	Space
+	Space,
+	WordRepitition
 ];
