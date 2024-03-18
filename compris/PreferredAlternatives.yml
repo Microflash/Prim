@@ -1,0 +1,8 @@
+extends: substitution
+message: "Prefer using '%s' over '%s'."
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  0-day: zero-day
