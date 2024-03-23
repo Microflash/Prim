@@ -1,0 +1,2 @@
+- [Joseph Kato](https://github.com/jdkato) for building [Vale](https://vale.sh/)
+- [Oxford 3000](https://www.oxfordlearnersdictionaries.com/us/wordlists/oxford3000-5000) for most commonly used English words
