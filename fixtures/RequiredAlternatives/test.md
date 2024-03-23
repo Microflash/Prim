@@ -8,3 +8,8 @@ The movie was stunning in 3-D.
 
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
+
+<!-- url -->
+Share the video url to let others view it online.
+The URL for the image file is embedded in the HTML code of the webpage.
+Hover on an URL to preview the page.
