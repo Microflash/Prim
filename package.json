@@ -1,6 +1,6 @@
 {
 	"name": "compris",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"scripts": {
 		"test": "vitest rules",
