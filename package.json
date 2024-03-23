@@ -1,16 +1,17 @@
 {
-  "name": "compris",
-  "version": "0.0.1",
-  "description": "A Vale-compatible prose style for non-native English speaker",
-  "scripts": {
-    "test": "vitest rules"
-  },
-  "devDependencies": {
-    "execa": "^8.0.1",
-    "vitest": "^1.4.0"
-  },
-  "author": "Naiyer Asif (https://naiyerasif.com)",
-  "license": "MIT",
-  "type": "module",
-  "packageManager": "pnpm@8.15.4+sha256.cea6d0bdf2de3a0549582da3983c70c92ffc577ff4410cbf190817ddc35137c2"
+	"name": "compris",
+	"version": "0.0.1",
+	"description": "A Vale-compatible prose style for non-native English speaker",
+	"scripts": {
+		"test": "vitest rules",
+		"dist": "zip -r compris.zip compris -x \"*.DS_Store\""
+	},
+	"devDependencies": {
+		"execa": "^8.0.1",
+		"vitest": "^1.4.0"
+	},
+	"author": "Naiyer Asif (https://naiyerasif.com)",
+	"license": "MIT",
+	"type": "module",
+	"packageManager": "pnpm@8.15.4+sha256.cea6d0bdf2de3a0549582da3983c70c92ffc577ff4410cbf190817ddc35137c2"
 }
