@@ -1,3 +1,6 @@
 test.md:4:34:compris.RequiredAlternatives:Use '24x7' instead of '24/7'.
 test.md:7:27:compris.RequiredAlternatives:Use '3D' instead of '3-D'.
 test.md:10:19:compris.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:13:17:compris.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:14:5:compris.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:15:10:compris.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
