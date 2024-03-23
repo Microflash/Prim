@@ -6,7 +6,8 @@ A [Vale](https://vale.sh)-compatible prose style for non-native English speakers
 
 ## Status: alpha
 
-**compris** is still in its early stages. It is usable but expect massive and frequent changes before it becomes stable.
+> [!IMPORTANT]
+> **compris** is still in its early stages. It is usable but expect massive and frequent changes before it becomes stable.
 
 ## Usage
 
