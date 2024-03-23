@@ -6,4 +6,5 @@ action:
   name: replace
 swap:
   24/7: 24x7
+  3\-D: 3D
   synch: sync
