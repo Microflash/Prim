@@ -4,6 +4,27 @@
 
 A [Vale](https://vale.sh)-compatible prose style for non-native English speakers. Tailored for technical documentation.
 
+## Status: alpha
+
+**compris** is still in its early stages. It is usable but expect massive changes before it becomes stable.
+
+## Usage
+
+Add <https://github.com/Microflash/compris/releases/download/latest/compris.zip> to the list of `Packages` in the `.vale.ini` file.
+
+```ini
+StylesPath = .github/styles
+MinAlertLevel = suggestion
+
+Packages = proselint, \
+https://github.com/Microflash/compris/releases/download/latest/compris.zip
+
+[README.md]
+BasedOnStyles = Vale, compris, proselint
+```
+
+To sync the latest updates, run `vale sync`.
+
 ## Guiding principles
 
 - Use short sentences (< 30 words).
