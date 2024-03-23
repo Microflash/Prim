@@ -12,6 +12,29 @@ A [Vale](https://vale.sh)-compatible prose style for non-native English speakers
 - Use an apostrophe only to indicate a possessive.
 - Avoid contractions.
 
+## Development
+
+- [Rules](./compris/) are written in `yml` files using the syntax described by [Vale docs](https://vale.sh/docs/).
+- Every rule has a [fixture](./fixtures/) against which you can run tests.
+- Tests are run against the [log output](./test/expectations/) of Vale.
+
+### Prerequisites
+
+- [Vale](https://vale.sh/docs/vale-cli/installation/)
+- [Node.js](https://nodejs.org/en/download)
+- [pnpm](https://pnpm.io/installation)
+
+Run `pnpm i` to download the test dependencies; you would need them to run the tests.
+
+### Development workflow
+
+A typical workflow looks like this.
+
+1. Add a new rule by creating a new `compris/<RuleName>.yml` file, or modify an existing rule in the existing `compris/<RuleName>.yml` file.
+2. Add or update the fixtures in the `fixtures/<RuleName>/test.md` directory.
+3. Add the expected logs in the `test/expectations/<RuleName>.log` file.
+4. Run `pnpm test` to run the tests.
+
 ## License
 
 [MIT](./LICENSE.md)
