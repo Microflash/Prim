@@ -1,1 +1,2 @@
-test.md:4:19:compris.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:4:34:compris.RequiredAlternatives:Use '24x7' instead of '24/7'.
+test.md:7:19:compris.RequiredAlternatives:Use 'sync' instead of 'synch'.

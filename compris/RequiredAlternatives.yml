@@ -5,4 +5,5 @@ ignorecase: true
 action:
   name: replace
 swap:
+  24/7: 24x7
   synch: sync
