@@ -10,6 +10,12 @@ She goes by the name Kate, a.k.a. Katherine.
 <!-- aren't -->
 The books on the shelf aren't organized properly.
 
+<!-- authN -->
+Implementing multi-factor authN adds an extra layer of security.
+
+<!-- authZ -->
+Role-based authZ allows administrators to assign permissions based on job responsibilities.
+
 <!-- can't -->
 I can't believe how fast time flies.
 
