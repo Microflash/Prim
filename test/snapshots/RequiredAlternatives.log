@@ -15,8 +15,8 @@ test.md:35:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
 test.md:38:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
 test.md:41:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
 test.md:44:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
-test.md:47:11:Prim.RequiredAlternatives:Use 'path' instead of 'file path'.
-test.md:48:25:Prim.RequiredAlternatives:Use 'path' instead of 'path name'.
+test.md:47:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
+test.md:48:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
 test.md:51:9:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll bar'.
 test.md:52:35:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll-bar'.
 test.md:55:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
