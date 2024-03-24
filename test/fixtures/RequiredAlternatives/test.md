@@ -34,6 +34,10 @@ Please provide a hard copy of the report.
 <!-- hardcoded -->
 The menu was hardcoded and could not be customized.
 
+<!-- scrollbar -->
+Use the scroll bar to navigate through the document.
+The webpage had a narrow vertical scroll-bar.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
