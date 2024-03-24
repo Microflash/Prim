@@ -19,7 +19,7 @@ swap:
   hardcoded: hard-coded
   HTTPs: HTTPS
   (?:file ?path|path ?name)s?: path|paths
-  (?:scroll bar|scroll-bar): scrollbar
+  (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
   synch: sync
   testcase: test case
   url:  URL
