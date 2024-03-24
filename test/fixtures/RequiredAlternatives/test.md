@@ -24,6 +24,9 @@ She circled the check mark for emphasis.
 <!-- down time -->
 His down time hobby was woodworking.
 
+<!-- hard copy -->
+Please provide a hard copy of the report.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
