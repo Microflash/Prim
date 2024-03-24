@@ -8,3 +8,6 @@ Our online support is available until 12 am.
 
 <!-- 12 pm -->
 Please submit your report by 12 pm tomorrow.
+
+<!-- open-source -->
+I contributed a new feature to an open-source project.
