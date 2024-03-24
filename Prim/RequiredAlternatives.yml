@@ -21,7 +21,7 @@ swap:
   (?:file ?path|path ?name)s?: path|paths
   (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
   synch: sync
-  testcase: test case
+  testcases?: test case|test cases
   url:  URL
   URL for: URL of
   an URL: a URL

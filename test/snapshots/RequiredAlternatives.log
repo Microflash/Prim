@@ -20,8 +20,9 @@ test.md:48:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path n
 test.md:51:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
 test.md:52:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
 test.md:55:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:58:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
-test.md:61:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:62:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:63:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:66:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
+test.md:58:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:59:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:62:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:63:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:64:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:67:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
