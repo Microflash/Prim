@@ -56,6 +56,7 @@ The team needs to synch their schedules for the upcoming meeting.
 
 <!-- testcase -->
 The testcase failed due to unexpected input data.
+Before deploying updates, we run regression tests using previously defined testcases.
 
 <!-- url -->
 Share the video url to let others view it online.
