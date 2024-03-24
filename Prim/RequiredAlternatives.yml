@@ -10,6 +10,7 @@ swap:
   Ajax: AJAX
   autodetect: auto-detect
   back slash: backslash
+  (?:bottle neck|bottle-neck): bottleneck
   check list: checklist
   check mark: checkmark
   down time: downtime
