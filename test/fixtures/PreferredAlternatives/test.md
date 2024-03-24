@@ -2,6 +2,7 @@
 
 <!-- 0-day -->
 A hacker forum was found selling a 0-day exploit for a popular web browser.
+Security researchers discovered critical 0-days in the operating system.
 
 <!-- 12 am -->
 Our online support is available until 12 am.
