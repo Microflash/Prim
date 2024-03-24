@@ -9,6 +9,9 @@ The movie was stunning in 3-D.
 <!-- Ajax -->
 The web developer used Ajax to create a dynamic search feature on the website.
 
+<!-- auto-detect -->
+The camera's autodetect recognizes faces and adjusts focus accordingly.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
