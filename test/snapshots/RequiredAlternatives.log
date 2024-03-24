@@ -6,11 +6,13 @@ test.md:16:7:Prim.RequiredAlternatives:Use 'backslash' instead of 'back slash'.
 test.md:19:12:Prim.RequiredAlternatives:Use 'checklist' instead of 'check list'.
 test.md:22:17:Prim.RequiredAlternatives:Use 'checkmark' instead of 'check mark'.
 test.md:25:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
-test.md:28:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
-test.md:31:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
-test.md:34:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:37:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
-test.md:40:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:41:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:42:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:45:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
+test.md:28:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
+test.md:29:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
+test.md:32:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
+test.md:35:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
+test.md:38:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:41:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
+test.md:44:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:45:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:46:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:49:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
