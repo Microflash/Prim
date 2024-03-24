@@ -21,6 +21,9 @@ Review the check list before submitting your project to ensure it meets all requ
 <!-- check mark -->
 She circled the check mark for emphasis.
 
+<!-- down time -->
+His down time hobby was woodworking.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
