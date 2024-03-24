@@ -1,0 +1,2 @@
+test.md:3:23:Prim.OptionalPlurals:Don't use plurals in parentheses such as in 'extension(s)'.
+test.md:4:5:Prim.OptionalPlurals:Don't use plurals in parentheses such as in 'checkbox(es)'.

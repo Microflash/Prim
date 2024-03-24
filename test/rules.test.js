@@ -1,7 +1,7 @@
 import path from "path";
 import { execa } from "execa";
-import { expect, test } from "vitest";
-import scenario from "./rules.parameters.js";
+import { expect, it } from "vitest";
+import scenario, { testDirectory, fixturesDirectory } from "./rules.parameters.js";
 
 const command = "vale";
 const args = [
@@ -11,17 +11,18 @@ const args = [
 	"--relative",
 	"test.md"
 ]
-const fixturesDirectory = "fixtures";
+const snapshotsDirectory = "snapshots";
 
-test.each(scenario)(`Test: %s`, async (rule, expected) => {
+it.each(scenario)(`Test: %s`, async (rule) => {
 	let result;
 	try {
-		const cwd = path.resolve(process.cwd(), fixturesDirectory, rule);
-		const output = await execa(command, args, { cwd: cwd });
+		const fixtureLocation = path.resolve(process.cwd(), testDirectory, fixturesDirectory, rule);
+		const output = await execa(command, args, { cwd: fixtureLocation });
 		result = output.stdout;
 	} catch (error) {
 		result = error.stdout;
 	}
 
-	expect.soft(result.trim()).toBe(expected);
+	const snapshotFile = path.resolve(process.cwd(), testDirectory, snapshotsDirectory, `${rule}.log`);
+	await expect(result).toMatchFileSnapshot(snapshotFile);
 });
