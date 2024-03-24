@@ -15,6 +15,9 @@ The camera's autodetect recognizes faces and adjusts focus accordingly.
 <!-- back slash -->
 Press back slash to reset the search.
 
+<!-- check list -->
+Review the check list before submitting your project to ensure it meets all requirements.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
