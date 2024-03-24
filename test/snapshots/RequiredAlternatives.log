@@ -1,6 +1,7 @@
 test.md:4:34:Prim.RequiredAlternatives:Use '24x7' instead of '24/7'.
 test.md:7:27:Prim.RequiredAlternatives:Use '3D' instead of '3-D'.
-test.md:10:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:13:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:14:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:15:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:10:24:Prim.RequiredAlternatives:Use 'AJAX' instead of 'Ajax'.
+test.md:13:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:16:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:17:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:18:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
