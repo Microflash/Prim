@@ -6,6 +6,9 @@ Our emergency hotline is staffed 24/7 for immediate assistance.
 <!-- 3-D -->
 The movie was stunning in 3-D.
 
+<!-- Ajax -->
+The web developer used Ajax to create a dynamic search feature on the website.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
