@@ -12,7 +12,7 @@ swap:
   back slash: backslash
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
   check lists?: checklist|checklists
-  check mark: checkmark
+  check marks?: checkmark|checkmarks
   down time: downtime
   (?:dualboot|dual boot): dual-boot
   hard copy: hardcopy

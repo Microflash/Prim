@@ -7,20 +7,21 @@ test.md:19:5:Prim.RequiredAlternatives:Use 'bottleneck' or 'bottlenecks' instead
 test.md:20:30:Prim.RequiredAlternatives:Use 'bottleneck' or 'bottlenecks' instead of 'bottle-neck'.
 test.md:23:12:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check list'.
 test.md:24:8:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check lists'.
-test.md:27:17:Prim.RequiredAlternatives:Use 'checkmark' instead of 'check mark'.
-test.md:30:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
-test.md:33:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
-test.md:34:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
-test.md:37:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
-test.md:40:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
-test.md:43:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
-test.md:46:11:Prim.RequiredAlternatives:Use 'path' instead of 'file path'.
-test.md:47:25:Prim.RequiredAlternatives:Use 'path' instead of 'path name'.
-test.md:50:9:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll bar'.
-test.md:51:35:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll-bar'.
-test.md:54:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:57:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
-test.md:60:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:61:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:62:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:65:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
+test.md:27:17:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check mark'.
+test.md:28:12:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check marks'.
+test.md:31:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
+test.md:34:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
+test.md:35:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
+test.md:38:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
+test.md:41:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
+test.md:44:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
+test.md:47:11:Prim.RequiredAlternatives:Use 'path' instead of 'file path'.
+test.md:48:25:Prim.RequiredAlternatives:Use 'path' instead of 'path name'.
+test.md:51:9:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll bar'.
+test.md:52:35:Prim.RequiredAlternatives:Use 'scrollbar' instead of 'scroll-bar'.
+test.md:55:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:58:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
+test.md:61:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:62:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:63:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:66:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
