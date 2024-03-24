@@ -49,7 +49,7 @@ Copy and paste the full path names to navigate to the desired folder.
 
 <!-- scrollbar -->
 Use the scroll bar to navigate through the document.
-The webpage had a narrow vertical scroll-bar.
+The webpage had narrow scroll-bars.
 
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
