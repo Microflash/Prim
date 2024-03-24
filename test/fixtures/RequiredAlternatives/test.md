@@ -12,6 +12,9 @@ The web developer used Ajax to create a dynamic search feature on the website.
 <!-- auto-detect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
 
+<!-- back slash -->
+Press back slash to reset the search.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
