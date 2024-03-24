@@ -13,6 +13,7 @@ swap:
   check list: checklist
   check mark: checkmark
   down time: downtime
+  (?:dualboot|dual boot): dual-boot
   hard copy: hardcopy
   hardcoded: hard-coded
   synch: sync

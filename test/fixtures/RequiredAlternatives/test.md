@@ -24,6 +24,10 @@ She circled the check mark for emphasis.
 <!-- down time -->
 His down time hobby was woodworking.
 
+<!-- dual-boot -->
+My laptop has a dualboot setup for Windows and Linux.
+He configured his computer for a dual boot system with macOS and Windows.
+
 <!-- hard copy -->
 Please provide a hard copy of the report.
 
