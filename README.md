@@ -1,27 +1,27 @@
-# compris
+# Prim
 
-[![Regression tests](https://github.com/Microflash/compris/actions/workflows/regression.yml/badge.svg)](https://github.com/Microflash/compris/actions/workflows/regression.yml)
+[![Regression tests](https://github.com/Microflash/Prim/actions/workflows/regression.yml/badge.svg)](https://github.com/Microflash/Prim/actions/workflows/regression.yml)
 
 A [Vale](https://vale.sh)-compatible prose style for non-native English speakers. Tailored for technical documentation.
 
 ## Status: alpha
 
 > [!IMPORTANT]
-> **compris** is still in its early stages. It is usable but expect massive and frequent changes before it becomes stable.
+> **Prim** is still in its early stages. It is usable but expect massive and frequent changes before it becomes stable.
 
 ## Usage
 
-Add <https://github.com/Microflash/compris/releases/download/latest/compris.zip> to the list of `Packages` in the `.vale.ini` file.
+Add <https://github.com/Microflash/Prim/releases/download/latest/Prim.zip> to the list of `Packages` in the `.vale.ini` file.
 
 ```ini
 StylesPath = .github/styles
 MinAlertLevel = suggestion
 
 Packages = proselint, \
-https://github.com/Microflash/compris/releases/download/latest/compris.zip
+https://github.com/Microflash/Prim/releases/download/latest/Prim.zip
 
 [README.md]
-BasedOnStyles = Vale, compris, proselint
+BasedOnStyles = Vale, Prim, proselint
 ```
 
 To sync the latest updates, run `vale sync`.
@@ -36,7 +36,7 @@ To sync the latest updates, run `vale sync`.
 
 ## Development
 
-- [Rules](./compris/) are written in `yml` files using the syntax described by [Vale docs](https://vale.sh/docs/).
+- [Rules](./Prim/) are written in `yml` files using the syntax described by [Vale docs](https://vale.sh/docs/).
 - Every rule has a [fixture](./fixtures/) against which you can run tests.
 - Tests are run against the [log output](./test/expectations/) of Vale.
 
@@ -52,7 +52,7 @@ Run `pnpm i` to download the test dependencies; you would need them to run the t
 
 A typical workflow looks like this.
 
-1. Add a new rule by creating a new `compris/<RuleName>.yml` file, or modify an existing rule in the existing `compris/<RuleName>.yml` file.
+1. Add a new rule by creating a new `Prim/<RuleName>.yml` file, or modify an existing rule in the existing `Prim/<RuleName>.yml` file.
 2. Add or update the fixtures in the `fixtures/<RuleName>/test.md` directory.
 3. Add the expected logs in the `test/expectations/<RuleName>.log` file.
 4. Run `pnpm test` to run the tests.

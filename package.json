@@ -1,10 +1,10 @@
 {
-	"name": "compris",
-	"version": "0.0.2",
+	"name": "prim",
+	"version": "0.0.3",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"scripts": {
 		"test": "vitest rules",
-		"dist": "zip -r compris.zip compris -x \"*.DS_Store\""
+		"dist": "zip -r Prim.zip Prim -x \"*.DS_Store\""
 	},
 	"devDependencies": {
 		"execa": "^8.0.1",
