@@ -5,7 +5,8 @@ test.md:13:14:Prim.RequiredAlternatives:Use 'auto-detect' instead of 'autodetect
 test.md:16:7:Prim.RequiredAlternatives:Use 'backslash' instead of 'back slash'.
 test.md:19:12:Prim.RequiredAlternatives:Use 'checklist' instead of 'check list'.
 test.md:22:17:Prim.RequiredAlternatives:Use 'checkmark' instead of 'check mark'.
-test.md:25:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:28:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:29:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:30:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:25:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
+test.md:28:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:31:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:32:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:33:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
