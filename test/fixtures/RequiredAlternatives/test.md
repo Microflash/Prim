@@ -27,6 +27,9 @@ His down time hobby was woodworking.
 <!-- hard copy -->
 Please provide a hard copy of the report.
 
+<!-- hardcoded -->
+The menu was hardcoded and could not be customized.
+
 <!-- synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
