@@ -16,7 +16,7 @@ The camera's autodetect recognizes faces and adjusts focus accordingly.
 Press back slash to reset the search.
 
 <!-- bottleneck -->
-The bottle neck in production caused delays.
+The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.
 
 <!-- check list -->
