@@ -21,6 +21,7 @@ The narrow hallway creates a bottle-neck during rush hours.
 
 <!-- check list -->
 Review the check list before submitting your project to ensure it meets all requirements.
+I have check lists to track issues in different environments.
 
 <!-- check mark -->
 She circled the check mark for emphasis.
