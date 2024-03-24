@@ -11,7 +11,7 @@ swap:
   autodetect: auto-detect
   back slash: backslash
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
-  check list: checklist
+  check lists?: checklist|checklists
   check mark: checkmark
   down time: downtime
   (?:dualboot|dual boot): dual-boot
