@@ -1,6 +1,8 @@
 # Prim
 
 [![Regression tests](https://github.com/Microflash/Prim/actions/workflows/regression.yml/badge.svg)](https://github.com/Microflash/Prim/actions/workflows/regression.yml)
+[![Latest version](https://img.shields.io/github/v/release/Microflash/Prim?label=version&color=00ACD7)](https://github.com/Microflash/Prim/releases/latest)
+[![GitHub releases](https://img.shields.io/github/downloads/Microflash/Prim/total?logo=GitHub&color=ff69b4)](https://github.com/Microflash/Prim/releases)
 
 A [Vale](https://vale.sh)-compatible prose style for non-native English speakers. Tailored for technical documentation.
 
