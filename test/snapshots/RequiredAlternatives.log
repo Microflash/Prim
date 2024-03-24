@@ -3,7 +3,8 @@ test.md:7:27:Prim.RequiredAlternatives:Use '3D' instead of '3-D'.
 test.md:10:24:Prim.RequiredAlternatives:Use 'AJAX' instead of 'Ajax'.
 test.md:13:14:Prim.RequiredAlternatives:Use 'auto-detect' instead of 'autodetect'.
 test.md:16:7:Prim.RequiredAlternatives:Use 'backslash' instead of 'back slash'.
-test.md:19:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:22:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:23:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:24:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:19:12:Prim.RequiredAlternatives:Use 'checklist' instead of 'check list'.
+test.md:22:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:25:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:26:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:27:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
