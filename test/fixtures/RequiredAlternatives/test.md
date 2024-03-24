@@ -38,6 +38,9 @@ Please provide a hard copy of the report.
 <!-- hardcoded -->
 The menu was hardcoded and could not be customized.
 
+<!-- HTTPs -->
+Always use HTTPs for secure online transactions.
+
 <!-- scrollbar -->
 Use the scroll bar to navigate through the document.
 The webpage had a narrow vertical scroll-bar.
