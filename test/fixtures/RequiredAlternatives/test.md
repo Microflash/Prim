@@ -41,6 +41,10 @@ The menu was hardcoded and could not be customized.
 <!-- HTTPs -->
 Always use HTTPs for secure online transactions.
 
+<!-- path -->
+Check the file path to locate the document.
+Copy and paste the full path name to navigate to the desired folder.
+
 <!-- scrollbar -->
 Use the scroll bar to navigate through the document.
 The webpage had a narrow vertical scroll-bar.
