@@ -3,6 +3,7 @@
 	"version": "0.0.3",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"scripts": {
+		"snapshot:update": "vitest rules --update",
 		"test": "vitest rules",
 		"dist": "zip -r Prim.zip Prim -x \"*.DS_Store\""
 	},

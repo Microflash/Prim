@@ -37,8 +37,8 @@ To sync the latest updates, run `vale sync`.
 ## Development
 
 - [Rules](./Prim/) are written in `yml` files using the syntax described by [Vale docs](https://vale.sh/docs/).
-- Every rule has a [fixture](./fixtures/) against which you can run tests.
-- Tests are run against the [log output](./test/expectations/) of Vale.
+- Every rule has a [fixture](./test/fixtures/) against which you can run tests.
+- Tests are run against the [log output snapshots](./test/snapshots/) of Vale.
 
 ### Prerequisites
 
@@ -53,8 +53,8 @@ Run `pnpm i` to download the test dependencies; you would need them to run the t
 A typical workflow looks like this.
 
 1. Add a new rule by creating a new `Prim/<RuleName>.yml` file, or modify an existing rule in the existing `Prim/<RuleName>.yml` file.
-2. Add or update the fixtures in the `fixtures/<RuleName>/test.md` directory.
-3. Add the expected logs in the `test/expectations/<RuleName>.log` file.
+2. Add or update the fixtures in the `test/fixtures/<RuleName>/test.md` directory.
+3. Generate or update a snapshot with `pnpm snapshot:update`
 4. Run `pnpm test` to run the tests.
 
 ## License
