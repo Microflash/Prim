@@ -40,3 +40,6 @@ The testcase failed due to unexpected input data.
 Share the video url to let others view it online.
 The URL for the image file is embedded in the HTML code of the webpage.
 Hover on an URL to preview the page.
+
+<!-- usecase -->
+Can you provide a specific usecase where this technology would be beneficial?

@@ -13,3 +13,4 @@ test.md:37:5:Prim.RequiredAlternatives:Use 'test case' instead of 'testcase'.
 test.md:40:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
 test.md:41:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
 test.md:42:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:45:28:Prim.RequiredAlternatives:Use 'use case' instead of 'usecase'.
