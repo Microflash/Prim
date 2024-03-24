@@ -53,7 +53,7 @@ Run `pnpm i` to download the test dependencies; you would need them to run the t
 A typical workflow looks like this.
 
 1. Add a new rule by creating a new `Prim/<RuleName>.yml` file, or modify an existing rule in the existing `Prim/<RuleName>.yml` file.
-2. Add or update the fixtures in the `test/fixtures/<RuleName>/test.md` directory.
+2. Add or update the fixtures in the `test/fixtures/<RuleName>/test.md` file.
 3. Generate or update a snapshot with `pnpm snapshot:update`
 4. Run `pnpm test` to run the tests.
 
