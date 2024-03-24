@@ -16,6 +16,7 @@ swap:
   (?:dualboot|dual boot): dual-boot
   hard copy: hardcopy
   hardcoded: hard-coded
+  (?:scroll bar|scroll-bar): scrollbar
   synch: sync
   testcase: test case
   url:  URL
