@@ -25,6 +25,7 @@ I have check lists to track issues in different environments.
 
 <!-- check mark -->
 She circled the check mark for emphasis.
+Please use check marks to indicate your preferences.
 
 <!-- down time -->
 His down time hobby was woodworking.
