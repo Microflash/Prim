@@ -1,3 +1,4 @@
 test.md:4:36:Prim.PreferredAlternatives:Prefer using 'Zero-day' over '0-day'.
 test.md:7:39:Prim.PreferredAlternatives:Prefer using 'Midnight' over '12 am'.
 test.md:10:30:Prim.PreferredAlternatives:Prefer using 'Noon' over '12 pm'.
+test.md:13:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
