@@ -13,5 +13,8 @@ Please submit your report by 12 pm tomorrow.
 <!-- anti-aliasing -->
 The browser's anti-aliasing feature made text on websites appear crisp.
 
+<!-- anti-malware -->
+Install an anti-malware to protect your computer.
+
 <!-- open-source -->
 I contributed a new feature to an open-source project.
