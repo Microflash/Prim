@@ -16,5 +16,8 @@ The browser's anti-aliasing feature made text on websites appear crisp.
 <!-- anti-malware -->
 Install an anti-malware to protect your computer.
 
+<!-- anti-spyware -->
+The company requires the use of an anti-spyware on all employee devices.
+
 <!-- open-source -->
 I contributed a new feature to an open-source project.
