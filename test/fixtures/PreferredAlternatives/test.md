@@ -10,5 +10,8 @@ Our online support is available until 12 am.
 <!-- 12 pm -->
 Please submit your report by 12 pm tomorrow.
 
+<!-- anti-aliasing -->
+The browser's anti-aliasing feature made text on websites appear crisp.
+
 <!-- open-source -->
 I contributed a new feature to an open-source project.
