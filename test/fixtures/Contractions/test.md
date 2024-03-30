@@ -115,6 +115,9 @@ The l10n team is responsible for adapting the app for different cultural prefere
 <!-- p13n -->
 The fitness app's p13n features adapt workout plans to match your fitness level and goals.
 
+<!-- regex -->
+I applied a regex to parse and extract data from a large log file.
+
 <!-- she'd -->
 She'd already left by the time I arrived.
 She'd love to join us for dinner tonight.
