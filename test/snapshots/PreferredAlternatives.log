@@ -2,4 +2,5 @@ test.md:4:36:Prim.PreferredAlternatives:Prefer using 'Zero-day' or 'Zero-days' o
 test.md:5:42:Prim.PreferredAlternatives:Prefer using 'Zero-day' or 'Zero-days' over '0-days'.
 test.md:8:39:Prim.PreferredAlternatives:Prefer using 'Midnight' over '12 am'.
 test.md:11:30:Prim.PreferredAlternatives:Prefer using 'Noon' over '12 pm'.
-test.md:14:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
+test.md:14:15:Prim.PreferredAlternatives:Prefer using 'antialiasing' over 'anti-aliasing'.
+test.md:17:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
