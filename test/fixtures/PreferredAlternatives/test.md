@@ -19,5 +19,8 @@ Install an anti-malware to protect your computer.
 <!-- anti-spyware -->
 The company requires the use of an anti-spyware on all employee devices.
 
+<!-- anti-virus -->
+Make sure your anti-virus is up to date.
+
 <!-- open-source -->
 I contributed a new feature to an open-source project.

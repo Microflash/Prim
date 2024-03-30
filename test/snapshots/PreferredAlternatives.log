@@ -5,4 +5,5 @@ test.md:11:30:Prim.PreferredAlternatives:Prefer using 'Noon' over '12 pm'.
 test.md:14:15:Prim.PreferredAlternatives:Prefer using 'antialiasing' over 'anti-aliasing'.
 test.md:17:12:Prim.PreferredAlternatives:Prefer using 'antimalware' over 'anti-malware'.
 test.md:20:36:Prim.PreferredAlternatives:Prefer using 'antispyware' over 'anti-spyware'.
-test.md:23:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
+test.md:23:16:Prim.PreferredAlternatives:Prefer using 'antivirus' over 'anti-virus'.
+test.md:26:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
