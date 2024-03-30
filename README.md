@@ -13,14 +13,14 @@ A [Vale](https://vale.sh)-compatible prose style for non-native English speakers
 
 ## Usage
 
-Add <https://github.com/Microflash/Prim/releases/download/latest/Prim.zip> to the list of `Packages` in the `.vale.ini` file.
+Add <https://github.com/Microflash/Prim/releases/latest/download/Prim.zip> to the list of `Packages` in the `.vale.ini` file.
 
 ```ini
 StylesPath = .github/styles
 MinAlertLevel = suggestion
 
 Packages = proselint, \
-https://github.com/Microflash/Prim/releases/download/latest/Prim.zip
+https://github.com/Microflash/Prim/releases/latest/download/Prim.zip
 
 [README.md]
 BasedOnStyles = Vale, Prim, proselint
