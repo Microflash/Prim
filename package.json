@@ -1,6 +1,6 @@
 {
 	"name": "prim",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"scripts": {
 		"snapshot:update": "vitest rules --update",
