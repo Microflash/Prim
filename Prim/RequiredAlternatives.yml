@@ -18,6 +18,7 @@ swap:
   hard copy: hardcopy
   hardcoded: hard-coded
   HTTPs: HTTPS
+  on demand: on-demand
   (?:file ?path|path ?name)s?: path|paths
   (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
   synch: sync

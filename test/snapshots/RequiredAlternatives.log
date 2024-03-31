@@ -15,15 +15,16 @@ test.md:35:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
 test.md:38:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
 test.md:41:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
 test.md:44:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
-test.md:47:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
-test.md:48:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
-test.md:51:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
-test.md:52:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
-test.md:55:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:58:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
-test.md:59:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:62:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:63:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:64:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:67:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:68:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:47:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
+test.md:50:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
+test.md:51:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
+test.md:54:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:55:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:58:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:61:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:62:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:65:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:66:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:67:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:70:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:71:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
