@@ -43,6 +43,9 @@ The menu was hardcoded and could not be customized.
 <!-- HTTPs -->
 Always use HTTPs for secure online transactions.
 
+<!-- in depth -->
+The article provided an in depth analysis of the housing crash.
+
 <!-- on demand -->
 I prefer watching movies on demand.
 
