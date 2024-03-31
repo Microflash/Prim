@@ -14,3 +14,4 @@ swap:
   anti-virus: antivirus
   chat ?bot?: chatbot
   open-source: open source
+  (?:cell ?phone|smart ?phone): phone|mobile phone

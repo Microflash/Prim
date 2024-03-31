@@ -27,3 +27,7 @@ She used a chat bot to proofread her paper.
 
 <!-- open-source -->
 I contributed a new feature to an open-source project.
+
+<!-- phone -->
+Have you seen my cell phone?
+My smartphone is running low on battery.

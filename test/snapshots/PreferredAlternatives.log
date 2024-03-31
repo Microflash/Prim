@@ -8,3 +8,5 @@ test.md:20:36:Prim.PreferredAlternatives:Prefer using 'antispyware' over 'anti-s
 test.md:23:16:Prim.PreferredAlternatives:Prefer using 'antivirus' over 'anti-virus'.
 test.md:26:12:Prim.PreferredAlternatives:Prefer using 'chatbot' over 'chat bot'.
 test.md:29:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
+test.md:32:18:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'cell phone'.
+test.md:33:4:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'smartphone'.
