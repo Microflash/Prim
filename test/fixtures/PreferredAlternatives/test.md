@@ -31,3 +31,6 @@ I contributed a new feature to an open-source project.
 <!-- phone -->
 Have you seen my cell phone?
 My smartphone is running low on battery.
+
+<!-- World Wide Web -->
+I'd better search the World Wide Web for a new recipe.

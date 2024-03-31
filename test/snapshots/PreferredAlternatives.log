@@ -10,3 +10,4 @@ test.md:26:12:Prim.PreferredAlternatives:Prefer using 'chatbot' over 'chat bot'.
 test.md:29:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
 test.md:32:18:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'cell phone'.
 test.md:33:4:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'smartphone'.
+test.md:36:23:Prim.PreferredAlternatives:Prefer using 'Web' over 'World Wide Web'.
