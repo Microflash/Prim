@@ -29,3 +29,5 @@ test.md:69:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
 test.md:70:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
 test.md:73:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
 test.md:74:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:77:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
+test.md:78:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.
