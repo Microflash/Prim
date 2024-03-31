@@ -15,6 +15,7 @@ swap:
   check marks?: checkmark|checkmarks
   down time: downtime
   (?:dualboot|dual boot): dual-boot
+  e-mail: email
   hard copy: hardcopy
   hardcoded: hard-coded
   HTTPs: HTTPS
