@@ -72,3 +72,7 @@ Hover on an URL to preview the page.
 <!-- usecase -->
 Can you provide a specific usecase where this technology would be beneficial?
 We analyzed the usecases to identify potential improvements.
+
+<!-- wifi -->
+The cafe offers free wifi for customers.
+I can't finish my work without WiFi.

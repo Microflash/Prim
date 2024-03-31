@@ -28,3 +28,4 @@ swap:
   URL for: URL of
   an URL: a URL
   usecases?: use case|use cases
+  (?:WiFi|wifi): Wi-Fi
