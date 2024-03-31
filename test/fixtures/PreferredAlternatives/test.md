@@ -22,5 +22,8 @@ The company requires the use of an anti-spyware on all employee devices.
 <!-- anti-virus -->
 Make sure your anti-virus is up to date.
 
+<!-- chat bot -->
+She used a chat bot to proofread her paper.
+
 <!-- open-source -->
 I contributed a new feature to an open-source project.

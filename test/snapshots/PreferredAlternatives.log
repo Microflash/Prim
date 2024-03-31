@@ -6,4 +6,5 @@ test.md:14:15:Prim.PreferredAlternatives:Prefer using 'antialiasing' over 'anti-
 test.md:17:12:Prim.PreferredAlternatives:Prefer using 'antimalware' over 'anti-malware'.
 test.md:20:36:Prim.PreferredAlternatives:Prefer using 'antispyware' over 'anti-spyware'.
 test.md:23:16:Prim.PreferredAlternatives:Prefer using 'antivirus' over 'anti-virus'.
-test.md:26:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
+test.md:26:12:Prim.PreferredAlternatives:Prefer using 'chatbot' over 'chat bot'.
+test.md:29:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.

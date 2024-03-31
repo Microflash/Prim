@@ -12,4 +12,5 @@ swap:
   anti-malware: antimalware
   anti-spyware: antispyware
   anti-virus: antivirus
+  chat ?bot?: chatbot
   open-source: open source
