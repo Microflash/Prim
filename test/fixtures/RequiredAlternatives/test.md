@@ -34,6 +34,10 @@ His down time hobby was woodworking.
 My laptop has a dualboot setup for Windows and Linux.
 He configured his computer for a dual boot system with macOS and Windows.
 
+<!-- e-mail -->
+I shot you an e-mail earlier.
+E-mail me the meeting agenda when you have a chance.
+
 <!-- hard copy -->
 Please provide a hard copy of the report.
 
