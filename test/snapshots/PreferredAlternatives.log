@@ -1,7 +1,7 @@
-test.md:4:36:Prim.PreferredAlternatives:Prefer using 'Zero-day' or 'Zero-days' over '0-day'.
-test.md:5:42:Prim.PreferredAlternatives:Prefer using 'Zero-day' or 'Zero-days' over '0-days'.
-test.md:8:39:Prim.PreferredAlternatives:Prefer using 'Midnight' over '12 am'.
-test.md:11:30:Prim.PreferredAlternatives:Prefer using 'Noon' over '12 pm'.
+test.md:4:36:Prim.PreferredAlternatives:Prefer using 'zero-day' or 'zero-days' over '0-day'.
+test.md:5:42:Prim.PreferredAlternatives:Prefer using 'zero-day' or 'zero-days' over '0-days'.
+test.md:8:39:Prim.PreferredAlternatives:Prefer using 'midnight' over '12 am'.
+test.md:11:30:Prim.PreferredAlternatives:Prefer using 'noon' over '12 pm'.
 test.md:14:15:Prim.PreferredAlternatives:Prefer using 'antialiasing' over 'anti-aliasing'.
 test.md:17:12:Prim.PreferredAlternatives:Prefer using 'antimalware' over 'anti-malware'.
 test.md:20:36:Prim.PreferredAlternatives:Prefer using 'antispyware' over 'anti-spyware'.
@@ -10,4 +10,4 @@ test.md:26:12:Prim.PreferredAlternatives:Prefer using 'chatbot' over 'chat bot'.
 test.md:29:35:Prim.PreferredAlternatives:Prefer using 'open source' over 'open-source'.
 test.md:32:18:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'cell phone'.
 test.md:33:4:Prim.PreferredAlternatives:Prefer using 'phone' or 'mobile phone' over 'smartphone'.
-test.md:36:23:Prim.PreferredAlternatives:Prefer using 'Web' over 'World Wide Web'.
+test.md:36:23:Prim.PreferredAlternatives:Prefer using 'web' over 'World Wide Web'.

@@ -13,7 +13,7 @@ test.md:31:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
 test.md:34:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
 test.md:35:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
 test.md:38:15:Prim.RequiredAlternatives:Use 'email' instead of 'e-mail'.
-test.md:39:1:Prim.RequiredAlternatives:Use 'Email' instead of 'E-mail'.
+test.md:39:1:Prim.RequiredAlternatives:Use 'email' instead of 'E-mail'.
 test.md:42:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
 test.md:45:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
 test.md:48:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
