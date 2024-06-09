@@ -9,4 +9,4 @@ test.md:21:33:Prim.Latin:Avoid latin. Use 'that is' instead of 'ie,'.
 test.md:24:22:Prim.Latin:Avoid latin. Use 'against' instead of 'vs.'.
 test.md:27:26:Prim.Latin:Avoid latin. Use 'against' instead of 'versus'.
 test.md:30:33:Prim.Latin:Avoid latin. Use 'over' or 'through' instead of 'via'.
-test.md:33:31:Prim.Latin:Avoid latin. Use 'namely' instead of 'viz.'.
+test.md:34:31:Prim.Latin:Avoid latin. Use 'namely' instead of 'viz.'.

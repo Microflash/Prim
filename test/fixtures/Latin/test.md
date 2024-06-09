@@ -27,7 +27,8 @@ It'll be the Red Sox vs. the Yankees in tonight's game.
 Monitor your liabilities versus your assets.
 
 <!-- via -->
-The London to Cairo flight goes via Rome
+The London to Cairo flight goes via Rome.
+I could not comprehend the abbreviated captions. <!-- negation -->
 
 <!-- viz -->
 Our philosophy is minimalist, viz., simple lines and clean colors.
