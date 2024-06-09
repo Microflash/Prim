@@ -1,6 +1,6 @@
 {
 	"name": "prim",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"scripts": {
 		"snapshot:update": "vitest rules --update",
@@ -8,8 +8,8 @@
 		"dist": "zip -r Prim.zip Prim -x \"*.DS_Store\""
 	},
 	"devDependencies": {
-		"execa": "^8.0.1",
-		"vitest": "^1.4.0"
+		"execa": "^9.2.0",
+		"vitest": "^1.6.0"
 	},
 	"author": "Naiyer Asif (https://naiyerasif.com)",
 	"license": "MIT",
