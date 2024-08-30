@@ -31,7 +31,7 @@ jobs:
           name: 'vale'
           version: ${{ env.VALE_VERSION }}
         env:
-          VALE_VERSION: 3.7.0
+          VALE_VERSION: 3.7.1
 
       - name: Run tests
         run: pnpm test
