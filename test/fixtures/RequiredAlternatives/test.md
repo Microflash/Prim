@@ -52,6 +52,10 @@ Always use HTTPs for secure online transactions.
 <!-- in depth -->
 The article provided an in depth analysis of the housing crash.
 
+<!-- OAuth 2.0 -->
+Our API uses OAuth for authentication.
+Oauth supports multiple grant types.
+
 <!-- on demand -->
 I prefer watching movies on demand.
 

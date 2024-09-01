@@ -20,6 +20,7 @@ swap:
   hardcoded: hard-coded
   HTTPs: HTTPS
   in depth: in-depth
+  (?:OAuth ?2|Oauth): OAuth 2.0
   on demand: on-demand
   (?:file ?path|path ?name)s?: path|paths
   (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
