@@ -9,6 +9,10 @@ The movie was stunning in 3-D.
 <!-- Ajax -->
 The web developer used Ajax to create a dynamic search feature on the website.
 
+<!-- audiobook -->
+I use audio-books to learn new languages.
+This audio book is several hours long.
+
 <!-- auto-detect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
 

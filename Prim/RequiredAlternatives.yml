@@ -8,6 +8,7 @@ swap:
   24/7: 24x7
   3\-D: 3D
   Ajax: AJAX
+  audio(?:-| )books?: audiobook|audiobooks
   autodetect: auto-detect
   back\s(slash|slashes): backslash|backslashes
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
