@@ -24,6 +24,9 @@ This phone can automatically adjust the back-light brightness.
 Press back slash to reset the search.
 On Windows, we use back slashes to separate directories and files.
 
+<!-- Basic authentication -->
+Basic Auth requires a username and password to authenticate requests.
+
 <!-- bottleneck -->
 The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.

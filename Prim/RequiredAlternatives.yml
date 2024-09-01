@@ -12,6 +12,7 @@ swap:
   autodetect: auto-detect
   back(?:-| )light: backlight
   back\s(slash|slashes): backslash|backslashes
+  '[bB]asic [aA]uth': Basic HTTP authentication|Basic authentication
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
   check lists?: checklist|checklists
   check marks?: checkmark|checkmarks
