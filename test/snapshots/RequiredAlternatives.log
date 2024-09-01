@@ -11,36 +11,38 @@ test.md:25:20:Prim.RequiredAlternatives:Use 'backslash' or 'backslashes' instead
 test.md:28:1:Prim.RequiredAlternatives:Use 'Basic HTTP authentication' or 'Basic authentication' instead of 'Basic Auth'.
 test.md:31:5:Prim.RequiredAlternatives:Use 'bottleneck' or 'bottlenecks' instead of 'bottle necks'.
 test.md:32:30:Prim.RequiredAlternatives:Use 'bottleneck' or 'bottlenecks' instead of 'bottle-neck'.
-test.md:35:12:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check list'.
-test.md:36:8:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check lists'.
-test.md:39:17:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check mark'.
-test.md:40:12:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check marks'.
-test.md:43:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
-test.md:46:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
-test.md:47:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
-test.md:50:15:Prim.RequiredAlternatives:Use 'email' instead of 'e-mail'.
-test.md:51:1:Prim.RequiredAlternatives:Use 'email' instead of 'E-mail'.
-test.md:54:18:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copy'.
-test.md:55:41:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copies'.
-test.md:58:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
-test.md:61:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
-test.md:64:25:Prim.RequiredAlternatives:Use 'in-depth' instead of 'in depth'.
-test.md:67:14:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'OAuth'.
-test.md:68:1:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'Oauth'.
-test.md:71:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
-test.md:74:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
-test.md:75:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
-test.md:78:13:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
-test.md:79:5:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
-test.md:82:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
-test.md:83:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
-test.md:86:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:89:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
-test.md:90:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:93:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:94:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:95:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:98:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:99:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
-test.md:102:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
-test.md:103:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:35:3:Prim.RequiredAlternatives:Use 'chatbot' or 'chatbots' instead of 'chat-bot'.
+test.md:36:1:Prim.RequiredAlternatives:Use 'chatbot' or 'chatbots' instead of 'Chat bots'.
+test.md:39:12:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check list'.
+test.md:40:8:Prim.RequiredAlternatives:Use 'checklist' or 'checklists' instead of 'check lists'.
+test.md:43:17:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check mark'.
+test.md:44:12:Prim.RequiredAlternatives:Use 'checkmark' or 'checkmarks' instead of 'check marks'.
+test.md:47:5:Prim.RequiredAlternatives:Use 'downtime' instead of 'down time'.
+test.md:50:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
+test.md:51:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
+test.md:54:15:Prim.RequiredAlternatives:Use 'email' instead of 'e-mail'.
+test.md:55:1:Prim.RequiredAlternatives:Use 'email' instead of 'E-mail'.
+test.md:58:18:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copy'.
+test.md:59:41:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copies'.
+test.md:62:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
+test.md:65:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
+test.md:68:25:Prim.RequiredAlternatives:Use 'in-depth' instead of 'in depth'.
+test.md:71:14:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'OAuth'.
+test.md:72:1:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'Oauth'.
+test.md:75:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
+test.md:78:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
+test.md:79:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
+test.md:82:13:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
+test.md:83:5:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
+test.md:86:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:87:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:90:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:93:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:94:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:97:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:98:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:99:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:102:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:103:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:106:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
+test.md:107:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.

@@ -31,6 +31,10 @@ Basic Auth requires a username and password to authenticate requests.
 The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.
 
+<!-- chatbot -->
+A chat-bot is a conversational agent that simulates human conversation.
+Chat bots can be trained to analyze data and provide insights.
+
 <!-- check list -->
 Review the check list before submitting your project to ensure it meets all requirements.
 I have check lists to track issues in different environments.
