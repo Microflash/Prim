@@ -32,19 +32,20 @@ test.md:72:25:Prim.RequiredAlternatives:Use 'in-depth' instead of 'in depth'.
 test.md:75:14:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'OAuth'.
 test.md:76:1:Prim.RequiredAlternatives:Use 'OAuth 2.0' instead of 'Oauth'.
 test.md:79:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
-test.md:82:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
-test.md:83:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
-test.md:86:13:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
-test.md:87:5:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
-test.md:90:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
-test.md:91:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
-test.md:94:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:97:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
-test.md:98:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:101:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:102:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:103:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:106:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:107:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
-test.md:110:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
-test.md:111:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:82:15:Prim.RequiredAlternatives:Use 'OK' instead of 'ok'.
+test.md:85:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
+test.md:86:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
+test.md:89:13:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
+test.md:90:5:Prim.RequiredAlternatives:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
+test.md:93:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:94:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:97:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:100:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:101:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:104:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:105:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:106:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:109:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:110:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:113:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
+test.md:114:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.

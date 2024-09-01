@@ -26,6 +26,7 @@ swap:
   HTTPs: HTTPS
   in depth: in-depth
   (?:OAuth ?2|Oauth): OAuth 2.0
+  ok: OK
   on demand: on-demand
   (?:file ?path|path ?name)s?: path|paths
   (?:quote mark|quotemark)s?: quotation mark|quotation marks
