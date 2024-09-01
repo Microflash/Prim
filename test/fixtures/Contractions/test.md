@@ -7,6 +7,9 @@ Accessible content benefits everyone - embrace a11y.
 The artist, aka Banksy, remains anonymous.
 She goes by the name Kate, a.k.a. Katherine.
 
+<!-- approx. -->
+The population of that city is approx. 1 million.
+
 <!-- authN -->
 Implementing multi-factor authN adds an extra layer of security.
 
