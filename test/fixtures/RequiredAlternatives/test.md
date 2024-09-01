@@ -16,6 +16,10 @@ This audio book is several hours long.
 <!-- auto-detect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
 
+<!-- backlight -->
+I need a keyboard with back light.
+This phone can automatically adjust the back-light brightness.
+
 <!-- back slash -->
 Press back slash to reset the search.
 On Windows, we use back slashes to separate directories and files.

@@ -10,6 +10,7 @@ swap:
   Ajax: AJAX
   audio(?:-| )books?: audiobook|audiobooks
   autodetect: auto-detect
+  back(?:-| )light: backlight
   back\s(slash|slashes): backslash|backslashes
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
   check lists?: checklist|checklists
