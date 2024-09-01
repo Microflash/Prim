@@ -16,7 +16,7 @@ swap:
   down time: downtime
   (?:dualboot|dual boot): dual-boot
   e-mail: email
-  hard copy: hardcopy
+  hard\s(copy|copies): hardcopy|hardcopies
   hardcoded: hard-coded
   HTTPs: HTTPS
   in depth: in-depth

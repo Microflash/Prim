@@ -15,22 +15,23 @@ test.md:35:17:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dualboot'.
 test.md:36:34:Prim.RequiredAlternatives:Use 'dual-boot' instead of 'dual boot'.
 test.md:39:15:Prim.RequiredAlternatives:Use 'email' instead of 'e-mail'.
 test.md:40:1:Prim.RequiredAlternatives:Use 'email' instead of 'E-mail'.
-test.md:43:18:Prim.RequiredAlternatives:Use 'hardcopy' instead of 'hard copy'.
-test.md:46:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
-test.md:49:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
-test.md:52:25:Prim.RequiredAlternatives:Use 'in-depth' instead of 'in depth'.
-test.md:55:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
-test.md:58:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
-test.md:59:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
-test.md:62:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
-test.md:63:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
-test.md:66:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
-test.md:69:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
-test.md:70:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:73:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
-test.md:74:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
-test.md:75:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
-test.md:78:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:79:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
-test.md:82:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
-test.md:83:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:43:18:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copy'.
+test.md:44:41:Prim.RequiredAlternatives:Use 'hardcopy' or 'hardcopies' instead of 'hard copies'.
+test.md:47:14:Prim.RequiredAlternatives:Use 'hard-coded' instead of 'hardcoded'.
+test.md:50:12:Prim.RequiredAlternatives:Use 'HTTPS' instead of 'HTTPs'.
+test.md:53:25:Prim.RequiredAlternatives:Use 'in-depth' instead of 'in depth'.
+test.md:56:26:Prim.RequiredAlternatives:Use 'on-demand' instead of 'on demand'.
+test.md:59:11:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'file path'.
+test.md:60:25:Prim.RequiredAlternatives:Use 'path' or 'paths' instead of 'path names'.
+test.md:63:9:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:64:24:Prim.RequiredAlternatives:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:67:19:Prim.RequiredAlternatives:Use 'sync' instead of 'synch'.
+test.md:70:5:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:71:76:Prim.RequiredAlternatives:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:74:17:Prim.RequiredAlternatives:Use 'URL' instead of 'url'.
+test.md:75:5:Prim.RequiredAlternatives:Use 'URL of' instead of 'URL for'.
+test.md:76:10:Prim.RequiredAlternatives:Use 'a URL' instead of 'an URL'.
+test.md:79:28:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:80:17:Prim.RequiredAlternatives:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:83:22:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'wifi'.
+test.md:84:32:Prim.RequiredAlternatives:Use 'Wi-Fi' instead of 'WiFi'.

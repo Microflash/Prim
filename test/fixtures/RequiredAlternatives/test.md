@@ -41,6 +41,7 @@ E-mail me the meeting agenda when you have a chance.
 
 <!-- hard copy -->
 Please provide a hard copy of the report.
+We store all our important documents as hard copies in case of emergencies.
 
 <!-- hardcoded -->
 The menu was hardcoded and could not be customized.
