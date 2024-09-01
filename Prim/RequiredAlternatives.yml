@@ -14,6 +14,7 @@ swap:
   back\s(slash|slashes): backslash|backslashes
   '[bB]asic [aA]uth': Basic HTTP authentication|Basic authentication
   bottle(?:-| )necks?: bottleneck|bottlenecks
+  (?:cell ?phone|smart ?phone): phone|mobile phone
   chat(?:-| )bots?: chatbot|chatbots
   check lists?: checklist|checklists
   check marks?: checkmark|checkmarks

@@ -31,6 +31,10 @@ Basic Auth requires a username and password to authenticate requests.
 The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.
 
+<!-- phone -->
+I use my cell phone to take pictures.
+Keep your smartphone on airplane mode during the flight.
+
 <!-- chatbot -->
 A chat-bot is a conversational agent that simulates human conversation.
 Chat bots can be trained to analyze data and provide insights.
