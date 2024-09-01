@@ -13,7 +13,7 @@ swap:
   back(?:-| )light: backlight
   back\s(slash|slashes): backslash|backslashes
   '[bB]asic [aA]uth': Basic HTTP authentication|Basic authentication
-  (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
+  bottle(?:-| )necks?: bottleneck|bottlenecks
   check lists?: checklist|checklists
   check marks?: checkmark|checkmarks
   down time: downtime
@@ -27,7 +27,7 @@ swap:
   on demand: on-demand
   (?:file ?path|path ?name)s?: path|paths
   (?:quote mark|quotemark)s?: quotation mark|quotation marks
-  (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
+  scroll(?:-| )bars?: scrollbar|scrollbars
   synch: sync
   testcases?: test case|test cases
   url:  URL
