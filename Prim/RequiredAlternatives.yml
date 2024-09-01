@@ -9,7 +9,7 @@ swap:
   3\-D: 3D
   Ajax: AJAX
   autodetect: auto-detect
-  back slash: backslash
+  back\s(slash|slashes): backslash|backslashes
   (?:bottle neck|bottle-neck)s?: bottleneck|bottlenecks
   check lists?: checklist|checklists
   check marks?: checkmark|checkmarks

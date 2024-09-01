@@ -14,6 +14,7 @@ The camera's autodetect recognizes faces and adjusts focus accordingly.
 
 <!-- back slash -->
 Press back slash to reset the search.
+On Windows, we use back slashes to separate directories and files.
 
 <!-- bottleneck -->
 The bottle necks in production caused delays.
