@@ -25,6 +25,7 @@ swap:
   (?:OAuth ?2|Oauth): OAuth 2.0
   on demand: on-demand
   (?:file ?path|path ?name)s?: path|paths
+  (?:quote mark|quotemark)s?: quotation mark|quotation marks
   (?:scroll bar|scroll-bar)s?: scrollbar|scrollbars
   synch: sync
   testcases?: test case|test cases
