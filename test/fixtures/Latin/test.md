@@ -2,6 +2,7 @@
 
 <!-- circa -->
 He was born circa 1600.
+The circadian rhythm regulates sleep and wakefulness.
 
 <!-- e.g. -->
 The rocky planets (e.g., Mercury) are closest to our sun.
@@ -9,6 +10,7 @@ Farmer Brown sells his produce (eg, apples, oranges, carrots) at the market.
 
 <!-- ergo -->
 The products are poorly constructed; ergo, they break easily.
+The ergonomic mouse reduces hand strain.
 
 <!-- et al. -->
 Taylor et al., 2018
