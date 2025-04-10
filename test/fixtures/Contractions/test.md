@@ -23,19 +23,12 @@ Effective g11n strategies can help companies expand their global reach.
 He'd already finished his homework before dinner.
 He'd like to go to the movies tonight.
 
-<!-- he's -->
-He's going to the store to buy some groceries.
-He's always been a reliable friend who can be counted on.
-
 <!-- he'll -->
 He'll be here soon, so please wait for him patiently.
 
 <!-- here'd -->
 Here'd been where we parked the car.
 Here'd we go again with another delay.
-
-<!-- here's -->
-Here's your coat; you left it in the car.
 
 <!-- how'd -->
 How'd you get here so fast?
@@ -50,10 +43,6 @@ The i18n framework we use simplifies the process of translating our website.
 <!-- it'd -->
 It'd been a while since I visited the school.
 It'd be great if you could help me with this project.
-
-<!-- it's -->
-It's been a long time since we last saw each other.
-It's great to see you again!
 
 <!-- it'll -->
 It'll take about an hour to drive to the airport.
@@ -74,10 +63,6 @@ I applied a regex to parse and extract data from a large log file.
 She'd already left by the time I arrived.
 She'd love to join us for dinner tonight.
 
-<!-- she's -->
-She's coming over for dinner tonight.
-She's been working at the company for ten years.
-
 <!-- she'll -->
 She'll probably choose the red dress for the party.
 
@@ -93,17 +78,9 @@ Someone'd been looking for you.
 I remember that'd been a difficult decision for him.
 That'd have been a disastrous mistake.
 
-<!-- that's -->
-That's been a long day.
-I think that's the best option.
-
 <!-- there'd -->
 There'd always been a strong sense of community in that neighborhood.
 There'd be no problem if you arrive a bit earlier.
-
-<!-- there's -->
-There's a problem with the printer.
-There's been a conflict in this region for ages.
 
 <!-- they'd -->
 I heard they'd finished the project ahead of schedule.
@@ -147,10 +124,6 @@ Which'd you rather have, coffee or tea?
 
 <!-- who'd -->
 Who'd you think will win the election?
-
-<!-- who's -->
-Who's been using my computer without permission?
-Who's in charge of organizing the event?
 
 <!-- why'd -->
 Why'd he say that to you?

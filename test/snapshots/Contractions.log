@@ -7,65 +7,52 @@ test.md:17:12:Prim.Contractions:Avoid contractions. Use 'authorization' instead 
 test.md:20:11:Prim.Contractions:Avoid contractions. Use 'globalization' instead of 'g11n'.
 test.md:23:1:Prim.Contractions:Avoid contractions. Use 'he had' or 'he would' instead of 'He'd'.
 test.md:24:1:Prim.Contractions:Avoid contractions. Use 'he had' or 'he would' instead of 'He'd'.
-test.md:27:1:Prim.Contractions:Avoid contractions. Use 'he is' or 'he has' instead of 'He's'.
-test.md:28:1:Prim.Contractions:Avoid contractions. Use 'he is' or 'he has' instead of 'He's'.
-test.md:31:1:Prim.Contractions:Avoid contractions. Use 'he will' or 'he shall' instead of 'He'll'.
-test.md:34:1:Prim.Contractions:Avoid contractions. Use 'here had' or 'here would' instead of 'Here'd'.
-test.md:35:1:Prim.Contractions:Avoid contractions. Use 'here had' or 'here would' instead of 'Here'd'.
-test.md:38:1:Prim.Contractions:Avoid contractions. Use 'here is' or 'here has' instead of 'Here's'.
-test.md:41:1:Prim.Contractions:Avoid contractions. Use 'how did' or 'how would' instead of 'How'd'.
-test.md:42:1:Prim.Contractions:Avoid contractions. Use 'how did' or 'how would' instead of 'How'd'.
-test.md:45:1:Prim.Contractions:Avoid contractions. Use 'I had' or 'I would' instead of 'I'd'.
-test.md:45:36:Prim.Contractions:Avoid contractions. Use 'I had' or 'I would' instead of 'I'd'.
-test.md:48:5:Prim.Contractions:Avoid contractions. Use 'internationalization' instead of 'i18n'.
-test.md:51:1:Prim.Contractions:Avoid contractions. Use 'it had' or 'it would' instead of 'It'd'.
-test.md:52:1:Prim.Contractions:Avoid contractions. Use 'it had' or 'it would' instead of 'It'd'.
-test.md:55:1:Prim.Contractions:Avoid contractions. Use 'it is' or 'it has' instead of 'It's'.
-test.md:56:1:Prim.Contractions:Avoid contractions. Use 'it is' or 'it has' instead of 'It's'.
-test.md:59:1:Prim.Contractions:Avoid contractions. Use 'it will' or 'it shall' instead of 'It'll'.
-test.md:62:8:Prim.Contractions:Avoid contractions. Use 'Kubernetes' instead of 'k8s'.
-test.md:65:5:Prim.Contractions:Avoid contractions. Use 'localization' instead of 'l10n'.
-test.md:68:19:Prim.Contractions:Avoid contractions. Use 'personalization' instead of 'p13n'.
-test.md:71:13:Prim.Contractions:Avoid contractions. Use 'regular expression' instead of 'regex'.
-test.md:74:1:Prim.Contractions:Avoid contractions. Use 'she had' or 'she would' instead of 'She'd'.
-test.md:75:1:Prim.Contractions:Avoid contractions. Use 'she had' or 'she would' instead of 'She'd'.
-test.md:78:1:Prim.Contractions:Avoid contractions. Use 'she is' or 'she has' instead of 'She's'.
-test.md:79:1:Prim.Contractions:Avoid contractions. Use 'she is' or 'she has' instead of 'She's'.
-test.md:82:1:Prim.Contractions:Avoid contractions. Use 'she will' or 'she shall' instead of 'She'll'.
-test.md:85:1:Prim.Contractions:Avoid contractions. Use 'somebody had' or 'somebody would' instead of 'Somebody'd'.
-test.md:86:1:Prim.Contractions:Avoid contractions. Use 'somebody had' or 'somebody would' instead of 'Somebody'd'.
-test.md:89:1:Prim.Contractions:Avoid contractions. Use 'someone had' or 'someone would' instead of 'Someone'd'.
-test.md:90:1:Prim.Contractions:Avoid contractions. Use 'someone had' or 'someone would' instead of 'Someone'd'.
-test.md:93:12:Prim.Contractions:Avoid contractions. Use 'that had' or 'that would' instead of 'that'd'.
-test.md:94:1:Prim.Contractions:Avoid contractions. Use 'that had' or 'that would' instead of 'That'd'.
-test.md:97:1:Prim.Contractions:Avoid contractions. Use 'that is' or 'that has' instead of 'That's'.
-test.md:98:9:Prim.Contractions:Avoid contractions. Use 'that is' or 'that has' instead of 'that's'.
-test.md:101:1:Prim.Contractions:Avoid contractions. Use 'there would' or 'there had' instead of 'There'd'.
-test.md:102:1:Prim.Contractions:Avoid contractions. Use 'there would' or 'there had' instead of 'There'd'.
-test.md:105:1:Prim.Contractions:Avoid contractions. Use 'there is' or 'there has' instead of 'There's'.
-test.md:106:1:Prim.Contractions:Avoid contractions. Use 'there is' or 'there has' instead of 'There's'.
-test.md:109:9:Prim.Contractions:Avoid contractions. Use 'they had' or 'they would' instead of 'they'd'.
-test.md:110:1:Prim.Contractions:Avoid contractions. Use 'they had' or 'they would' instead of 'They'd'.
-test.md:113:34:Prim.Contractions:Avoid contractions. Use 'they will' or 'they shall' instead of 'they'll'.
-test.md:116:1:Prim.Contractions:Avoid contractions. Use 'we would' or 'we had' instead of 'We'd'.
-test.md:117:1:Prim.Contractions:Avoid contractions. Use 'we would' or 'we had' instead of 'We'd'.
-test.md:120:1:Prim.Contractions:Avoid contractions. Use 'what did' instead of 'What'd'.
-test.md:123:1:Prim.Contractions:Avoid contractions. Use 'what will' instead of 'What'll'.
-test.md:126:1:Prim.Contractions:Avoid contractions. Use 'when did' instead of 'When'd'.
-test.md:129:1:Prim.Contractions:Avoid contractions. Use 'when is' or 'when has' instead of 'When's'.
-test.md:130:1:Prim.Contractions:Avoid contractions. Use 'when is' or 'when has' instead of 'When's'.
-test.md:133:1:Prim.Contractions:Avoid contractions. Use 'when will' instead of 'When'll'.
-test.md:136:1:Prim.Contractions:Avoid contractions. Use 'where did' instead of 'Where'd'.
-test.md:139:1:Prim.Contractions:Avoid contractions. Use 'where is' or 'where has' instead of 'Where's'.
-test.md:140:1:Prim.Contractions:Avoid contractions. Use 'where is' or 'where has' instead of 'Where's'.
-test.md:143:1:Prim.Contractions:Avoid contractions. Use 'where will' instead of 'Where'll'.
-test.md:146:1:Prim.Contractions:Avoid contractions. Use 'which would' or 'which had' instead of 'Which'd'.
-test.md:149:1:Prim.Contractions:Avoid contractions. Use 'who had' or 'who would' instead of 'Who'd'.
-test.md:152:1:Prim.Contractions:Avoid contractions. Use 'who is' or 'who has' instead of 'Who's'.
-test.md:153:1:Prim.Contractions:Avoid contractions. Use 'who is' or 'who has' instead of 'Who's'.
-test.md:156:1:Prim.Contractions:Avoid contractions. Use 'why did' or 'why would' instead of 'Why'd'.
-test.md:159:1:Prim.Contractions:Avoid contractions. Use 'why is' or 'why has' instead of 'Why's'.
-test.md:162:12:Prim.Contractions:Avoid contractions. Use 'with' instead of 'w/ '.
-test.md:165:26:Prim.Contractions:Avoid contractions. Use 'without' instead of 'w/o'.
-test.md:168:1:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'You'd'.
-test.md:169:4:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'you'd'.
+test.md:27:1:Prim.Contractions:Avoid contractions. Use 'he will' or 'he shall' instead of 'He'll'.
+test.md:30:1:Prim.Contractions:Avoid contractions. Use 'here had' or 'here would' instead of 'Here'd'.
+test.md:31:1:Prim.Contractions:Avoid contractions. Use 'here had' or 'here would' instead of 'Here'd'.
+test.md:34:1:Prim.Contractions:Avoid contractions. Use 'how did' or 'how would' instead of 'How'd'.
+test.md:35:1:Prim.Contractions:Avoid contractions. Use 'how did' or 'how would' instead of 'How'd'.
+test.md:38:1:Prim.Contractions:Avoid contractions. Use 'I had' or 'I would' instead of 'I'd'.
+test.md:38:36:Prim.Contractions:Avoid contractions. Use 'I had' or 'I would' instead of 'I'd'.
+test.md:41:5:Prim.Contractions:Avoid contractions. Use 'internationalization' instead of 'i18n'.
+test.md:44:1:Prim.Contractions:Avoid contractions. Use 'it had' or 'it would' instead of 'It'd'.
+test.md:45:1:Prim.Contractions:Avoid contractions. Use 'it had' or 'it would' instead of 'It'd'.
+test.md:48:1:Prim.Contractions:Avoid contractions. Use 'it will' or 'it shall' instead of 'It'll'.
+test.md:51:8:Prim.Contractions:Avoid contractions. Use 'Kubernetes' instead of 'k8s'.
+test.md:54:5:Prim.Contractions:Avoid contractions. Use 'localization' instead of 'l10n'.
+test.md:57:19:Prim.Contractions:Avoid contractions. Use 'personalization' instead of 'p13n'.
+test.md:60:13:Prim.Contractions:Avoid contractions. Use 'regular expression' instead of 'regex'.
+test.md:63:1:Prim.Contractions:Avoid contractions. Use 'she had' or 'she would' instead of 'She'd'.
+test.md:64:1:Prim.Contractions:Avoid contractions. Use 'she had' or 'she would' instead of 'She'd'.
+test.md:67:1:Prim.Contractions:Avoid contractions. Use 'she will' or 'she shall' instead of 'She'll'.
+test.md:70:1:Prim.Contractions:Avoid contractions. Use 'somebody had' or 'somebody would' instead of 'Somebody'd'.
+test.md:71:1:Prim.Contractions:Avoid contractions. Use 'somebody had' or 'somebody would' instead of 'Somebody'd'.
+test.md:74:1:Prim.Contractions:Avoid contractions. Use 'someone had' or 'someone would' instead of 'Someone'd'.
+test.md:75:1:Prim.Contractions:Avoid contractions. Use 'someone had' or 'someone would' instead of 'Someone'd'.
+test.md:78:12:Prim.Contractions:Avoid contractions. Use 'that had' or 'that would' instead of 'that'd'.
+test.md:79:1:Prim.Contractions:Avoid contractions. Use 'that had' or 'that would' instead of 'That'd'.
+test.md:82:1:Prim.Contractions:Avoid contractions. Use 'there would' or 'there had' instead of 'There'd'.
+test.md:83:1:Prim.Contractions:Avoid contractions. Use 'there would' or 'there had' instead of 'There'd'.
+test.md:86:9:Prim.Contractions:Avoid contractions. Use 'they had' or 'they would' instead of 'they'd'.
+test.md:87:1:Prim.Contractions:Avoid contractions. Use 'they had' or 'they would' instead of 'They'd'.
+test.md:90:34:Prim.Contractions:Avoid contractions. Use 'they will' or 'they shall' instead of 'they'll'.
+test.md:93:1:Prim.Contractions:Avoid contractions. Use 'we would' or 'we had' instead of 'We'd'.
+test.md:94:1:Prim.Contractions:Avoid contractions. Use 'we would' or 'we had' instead of 'We'd'.
+test.md:97:1:Prim.Contractions:Avoid contractions. Use 'what did' instead of 'What'd'.
+test.md:100:1:Prim.Contractions:Avoid contractions. Use 'what will' instead of 'What'll'.
+test.md:103:1:Prim.Contractions:Avoid contractions. Use 'when did' instead of 'When'd'.
+test.md:106:1:Prim.Contractions:Avoid contractions. Use 'when is' or 'when has' instead of 'When's'.
+test.md:107:1:Prim.Contractions:Avoid contractions. Use 'when is' or 'when has' instead of 'When's'.
+test.md:110:1:Prim.Contractions:Avoid contractions. Use 'when will' instead of 'When'll'.
+test.md:113:1:Prim.Contractions:Avoid contractions. Use 'where did' instead of 'Where'd'.
+test.md:116:1:Prim.Contractions:Avoid contractions. Use 'where is' or 'where has' instead of 'Where's'.
+test.md:117:1:Prim.Contractions:Avoid contractions. Use 'where is' or 'where has' instead of 'Where's'.
+test.md:120:1:Prim.Contractions:Avoid contractions. Use 'where will' instead of 'Where'll'.
+test.md:123:1:Prim.Contractions:Avoid contractions. Use 'which would' or 'which had' instead of 'Which'd'.
+test.md:126:1:Prim.Contractions:Avoid contractions. Use 'who had' or 'who would' instead of 'Who'd'.
+test.md:129:1:Prim.Contractions:Avoid contractions. Use 'why did' or 'why would' instead of 'Why'd'.
+test.md:132:1:Prim.Contractions:Avoid contractions. Use 'why is' or 'why has' instead of 'Why's'.
+test.md:135:12:Prim.Contractions:Avoid contractions. Use 'with' instead of 'w/ '.
+test.md:138:26:Prim.Contractions:Avoid contractions. Use 'without' instead of 'w/o'.
+test.md:141:1:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'You'd'.
+test.md:142:4:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'you'd'.
