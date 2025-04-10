@@ -51,6 +51,6 @@ swap:
   "who's": who is|who has
   "why'd": why did|why would
   "why's": why is|why has
-  "w/(?!o) ": "with "
+  'w/(?!o)\s': with
   "w/o": without
   "you'd": you had|you would

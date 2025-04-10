@@ -1,7 +1,7 @@
 test.md:4:48:Prim.Contractions:Avoid contractions. Use 'accessibility' instead of 'a11y'.
 test.md:7:13:Prim.Contractions:Avoid contractions. Use 'or' or 'also known as' instead of 'aka'.
 test.md:8:28:Prim.Contractions:Avoid contractions. Use 'or' or 'also known as' instead of 'a.k.a'.
-test.md:11:32:Prim.Contractions:Avoid contractions. Use 'about' or 'around' instead of 'approx.'.
+test.md:11:32:Prim.Contractions:Avoid contractions. Use 'about' or 'around' instead of 'approx. '.
 test.md:14:27:Prim.Contractions:Avoid contractions. Use 'authentication' instead of 'authN'.
 test.md:17:12:Prim.Contractions:Avoid contractions. Use 'authorization' instead of 'authZ'.
 test.md:20:11:Prim.Contractions:Avoid contractions. Use 'globalization' instead of 'g11n'.
@@ -65,7 +65,7 @@ test.md:152:1:Prim.Contractions:Avoid contractions. Use 'who is' or 'who has' in
 test.md:153:1:Prim.Contractions:Avoid contractions. Use 'who is' or 'who has' instead of 'Who's'.
 test.md:156:1:Prim.Contractions:Avoid contractions. Use 'why did' or 'why would' instead of 'Why'd'.
 test.md:159:1:Prim.Contractions:Avoid contractions. Use 'why is' or 'why has' instead of 'Why's'.
-test.md:162:12:Prim.Contractions:Avoid contractions. Use 'with ' instead of 'w/'.
+test.md:162:12:Prim.Contractions:Avoid contractions. Use 'with' instead of 'w/ '.
 test.md:165:26:Prim.Contractions:Avoid contractions. Use 'without' instead of 'w/o'.
 test.md:168:1:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'You'd'.
 test.md:169:4:Prim.Contractions:Avoid contractions. Use 'you had' or 'you would' instead of 'you'd'.
