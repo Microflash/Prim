@@ -41,11 +41,12 @@ test.md:91:24:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scrol
 test.md:94:19:Prim.Consistency:Use 'sync' instead of 'synch'.
 test.md:97:5:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcase'.
 test.md:98:76:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:101:17:Prim.Consistency:Use 'URL' instead of 'url'.
-test.md:102:5:Prim.Consistency:Use 'URL of' instead of 'URL for'.
-test.md:103:10:Prim.Consistency:Use 'a URL' instead of 'an URL'.
-test.md:106:28:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:107:17:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecases'.
-test.md:110:22:Prim.Consistency:Use 'Wi-Fi' instead of 'wifi'.
-test.md:111:32:Prim.Consistency:Use 'Wi-Fi' instead of 'WiFi'.
-test.md:114:23:Prim.Consistency:Use 'web' instead of 'World Wide Web'.
+test.md:101:30:Prim.Consistency:Use 'debloat' instead of 'unbloat'.
+test.md:104:17:Prim.Consistency:Use 'URL' instead of 'url'.
+test.md:105:5:Prim.Consistency:Use 'URL of' instead of 'URL for'.
+test.md:106:10:Prim.Consistency:Use 'a URL' instead of 'an URL'.
+test.md:109:28:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:110:17:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:113:22:Prim.Consistency:Use 'Wi-Fi' instead of 'wifi'.
+test.md:114:32:Prim.Consistency:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:117:23:Prim.Consistency:Use 'web' instead of 'World Wide Web'.
