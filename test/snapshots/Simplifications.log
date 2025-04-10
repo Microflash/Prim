@@ -5,4 +5,5 @@ test.md:11:30:Prim.Simplifications:Use 'noon' instead of '12 pm'.
 test.md:14:25:Prim.Simplifications:Use 'hurt' instead of 'adversely impact'.
 test.md:17:31:Prim.Simplifications:Use 'about' or 'around' instead of 'approximately'.
 test.md:20:1:Prim.Simplifications:Use 'in fact' instead of 'As a matter of fact'.
-test.md:23:6:Prim.Simplifications:Use 'modern' or 'latest' instead of 'state-of-the-art'.
+test.md:23:31:Prim.Simplifications:Use 'instead of' instead of 'in lieu of'.
+test.md:26:6:Prim.Simplifications:Use 'modern' or 'latest' instead of 'state-of-the-art'.

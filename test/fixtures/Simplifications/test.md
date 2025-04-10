@@ -19,5 +19,8 @@ The population of the city is approximately 1 million people.
 <!-- as a matter of fact -->
 As a matter of fact, I did call you yesterday—twice.
 
+<!-- in lieu of -->
+She was granted severance pay in lieu of notice.
+
 <!-- state-of-the-art -->
 This state-of-the-art arena can host 7,000 fans.
