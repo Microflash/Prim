@@ -9,7 +9,7 @@ A [Vale](https://vale.sh)-compatible prose style for non-native English speakers
 ## Status: alpha
 
 > [!IMPORTANT]
-> **Prim** is still in its early stages. It is usable but expect massive and frequent changes before it becomes stable.
+> **Prim** is in early stage. It is usable but expect frequent changes before it becomes stable.
 
 ## Usage
 
@@ -31,10 +31,10 @@ To sync the latest updates, run `vale sync`.
 ## Guiding principles
 
 - Use short sentences (< 30 words).
-- Use active voice in simple present tense.
+- Use active voice in present tense.
 - Avoid Latin to prevent a yet another language in the mix. Use English equivalents. 
 - Use an apostrophe only to indicate a possessive.
-- Avoid contractions.
+- Avoid uncommon contractions.
 
 ## Development
 
