@@ -1,13 +1,10 @@
-# Required Alternatives
+# Consistency
 
 <!-- 24/7 -->
 Our emergency hotline is staffed 24/7 for immediate assistance.
 
 <!-- 3-D -->
 The movie was stunning in 3-D.
-
-<!-- Ajax -->
-The web developer used Ajax to create a dynamic search feature on the website.
 
 <!-- audiobook -->
 I use audio-books to learn new languages.
@@ -24,19 +21,12 @@ This phone can automatically adjust the back-light brightness.
 Press back slash to reset the search.
 On Windows, we use back slashes to separate directories and files.
 
-<!-- Basic authentication -->
-Basic Auth requires a username and password to authenticate requests.
-
 <!-- bottleneck -->
 The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.
 
-<!-- phone -->
-I use my cell phone to take pictures.
-Keep your smartphone on airplane mode during the flight.
-
-<!-- chatbot -->
-A chat-bot is a conversational agent that simulates human conversation.
+<!-- chat bot -->
+She used a chat bot to proofread her paper.
 Chat bots can be trained to analyze data and provide insights.
 
 <!-- check list -->
@@ -81,9 +71,16 @@ I prefer watching movies on demand.
 <!-- OK -->
 Is everything ok?
 
+<!-- open-source -->
+I contributed a new feature to an open-source project.
+
 <!-- path -->
 Check the file path to locate the document.
 Copy and paste the full path names to navigate to the desired folder.
+
+<!-- phone -->
+Have you seen my cell phone?
+My smartphone is running low on battery.
 
 <!-- quotation mark -->
 You can use quote marks to format in-text citations.
@@ -112,3 +109,6 @@ We analyzed the usecases to identify potential improvements.
 <!-- wifi -->
 The cafe offers free wifi for customers.
 I can't finish my work without WiFi.
+
+<!-- World Wide Web -->
+I'd better search the World Wide Web for a new recipe.

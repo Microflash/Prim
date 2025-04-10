@@ -1,0 +1,51 @@
+test.md:4:34:Prim.Consistency:Use '24x7' instead of '24/7'.
+test.md:7:27:Prim.Consistency:Use '3D' instead of '3-D'.
+test.md:10:7:Prim.Consistency:Use 'audiobook' or 'audiobooks' instead of 'audio-books'.
+test.md:11:6:Prim.Consistency:Use 'audiobook' or 'audiobooks' instead of 'audio book'.
+test.md:14:14:Prim.Consistency:Use 'auto-detect' instead of 'autodetect'.
+test.md:17:24:Prim.Consistency:Use 'backlight' instead of 'back light'.
+test.md:18:41:Prim.Consistency:Use 'backlight' instead of 'back-light'.
+test.md:21:7:Prim.Consistency:Use 'backslash' or 'backslashes' instead of 'back slash'.
+test.md:22:20:Prim.Consistency:Use 'backslash' or 'backslashes' instead of 'back slashes'.
+test.md:25:5:Prim.Consistency:Use 'bottleneck' or 'bottlenecks' instead of 'bottle necks'.
+test.md:26:30:Prim.Consistency:Use 'bottleneck' or 'bottlenecks' instead of 'bottle-neck'.
+test.md:29:12:Prim.Consistency:Use 'chatbot' or 'chatbots' instead of 'chat bot'.
+test.md:30:1:Prim.Consistency:Use 'chatbot' or 'chatbots' instead of 'Chat bots'.
+test.md:33:12:Prim.Consistency:Use 'checklist' or 'checklists' instead of 'check list'.
+test.md:34:8:Prim.Consistency:Use 'checklist' or 'checklists' instead of 'check lists'.
+test.md:37:17:Prim.Consistency:Use 'checkmark' or 'checkmarks' instead of 'check mark'.
+test.md:38:12:Prim.Consistency:Use 'checkmark' or 'checkmarks' instead of 'check marks'.
+test.md:41:5:Prim.Consistency:Use 'downtime' instead of 'down time'.
+test.md:44:17:Prim.Consistency:Use 'dual-boot' instead of 'dualboot'.
+test.md:45:34:Prim.Consistency:Use 'dual-boot' instead of 'dual boot'.
+test.md:48:15:Prim.Consistency:Use 'email' instead of 'e-mail'.
+test.md:49:1:Prim.Consistency:Use 'email' instead of 'E-mail'.
+test.md:52:18:Prim.Consistency:Use 'hardcopy' or 'hardcopies' instead of 'hard copy'.
+test.md:53:41:Prim.Consistency:Use 'hardcopy' or 'hardcopies' instead of 'hard copies'.
+test.md:56:14:Prim.Consistency:Use 'hard-coded' instead of 'hardcoded'.
+test.md:59:12:Prim.Consistency:Use 'HTTPS' instead of 'HTTPs'.
+test.md:62:25:Prim.Consistency:Use 'in-depth' instead of 'in depth'.
+test.md:65:14:Prim.Consistency:Use 'OAuth 2.0' instead of 'OAuth'.
+test.md:66:1:Prim.Consistency:Use 'OAuth 2.0' instead of 'Oauth'.
+test.md:69:26:Prim.Consistency:Use 'on-demand' instead of 'on demand'.
+test.md:72:15:Prim.Consistency:Use 'OK' instead of 'ok'.
+test.md:75:35:Prim.Consistency:Use 'open source' instead of 'open-source'.
+test.md:78:11:Prim.Consistency:Use 'path' or 'paths' instead of 'file path'.
+test.md:79:25:Prim.Consistency:Use 'path' or 'paths' instead of 'path names'.
+test.md:82:18:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'cell phone'.
+test.md:83:4:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'smartphone'.
+test.md:86:13:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
+test.md:87:5:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
+test.md:90:9:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:91:24:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:94:19:Prim.Consistency:Use 'sync' instead of 'synch'.
+test.md:97:5:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:98:76:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:101:17:Prim.Consistency:Use 'URL' instead of 'url'.
+test.md:102:5:Prim.Consistency:Use 'URL of' instead of 'URL for'.
+test.md:103:10:Prim.Consistency:Use 'a URL' instead of 'an URL'.
+test.md:106:28:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:107:17:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:110:22:Prim.Consistency:Use 'Wi-Fi' instead of 'wifi'.
+test.md:111:32:Prim.Consistency:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:114:23:Prim.Consistency:Use 'web' instead of 'World Wide Web'.
