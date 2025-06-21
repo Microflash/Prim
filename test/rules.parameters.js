@@ -8,7 +8,9 @@ const fixturesRoot = path.resolve(process.cwd(), testDirectory, fixturesDirector
 const parameters = fs.readdirSync(fixturesRoot, {
 	withFileTypes: false,
 	recursive: false
-}).map(fpath => path.basename(fpath));
+})
+.filter(fpath => !(/(^|\/)\.[^\/\.]/g).test(fpath))
+.map(fpath => path.basename(fpath));
 
 export {
 	parameters as default,
