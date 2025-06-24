@@ -1,69 +1,72 @@
 # Consistency
 
-<!-- 24/7 -->
+<!-- ❌ trigger on the use of 24/7 -->
 Our emergency hotline is staffed 24/7 for immediate assistance.
 
-<!-- 3-D -->
+<!-- ❌ trigger on the use of 3-D -->
 The movie was stunning in 3-D.
 
-<!-- audiobook -->
+<!-- ❌ trigger on the use of audio-book/audio book -->
 I use audio-books to learn new languages.
 This audio book is several hours long.
 
-<!-- auto-detect -->
+<!-- ❌ trigger on the use of autodetect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
 
-<!-- backlight -->
+<!-- ❌ trigger on the use of back light/back-light -->
 I need a keyboard with back light.
 This phone can automatically adjust the back-light brightness.
 
-<!-- back slash -->
+<!-- ❌ trigger on the use of back slash/back-slashes -->
 Press back slash to reset the search.
 On Windows, we use back slashes to separate directories and files.
 
-<!-- bottleneck -->
+<!-- ❌ trigger on the use of bottle neck/bottle-neck -->
 The bottle necks in production caused delays.
 The narrow hallway creates a bottle-neck during rush hours.
 
-<!-- chat bot -->
+<!-- ❌ trigger on the use of chat bot/chat-bot -->
 She used a chat bot to proofread her paper.
-Chat bots can be trained to analyze data and provide insights.
+Chat-bots can be trained to analyze data and provide insights.
 
-<!-- check list -->
+<!-- ❌ trigger on the use of check list -->
 Review the check list before submitting your project to ensure it meets all requirements.
 I have check lists to track issues in different environments.
 
-<!-- check mark -->
+<!-- ❌ trigger on the use of check mark -->
 She circled the check mark for emphasis.
 Please use check marks to indicate your preferences.
 
-<!-- down time -->
+<!-- ❌ trigger on the use of down time -->
 His down time hobby was woodworking.
 
-<!-- dual-boot -->
+<!-- ❌ trigger on the use of dualboot/dual boot -->
 My laptop has a dualboot setup for Windows and Linux.
 He configured his computer for a dual boot system with macOS and Windows.
 
-<!-- e-mail -->
+<!-- ❌ trigger on the use of e-mail -->
 I shot you an e-mail earlier.
 E-mail me the meeting agenda when you have a chance.
 
-<!-- hard copy -->
+<!-- ❌ trigger on the use of hard copy -->
 Please provide a hard copy of the report.
 We store all our important documents as hard copies in case of emergencies.
 
-<!-- hardcoded -->
+<!-- ❌ trigger on the use of hardcoded -->
 The menu was hardcoded and could not be customized.
 
-<!-- HTTPs -->
+<!-- ❌ trigger on the use of HTTPs -->
 Always use HTTPs for secure online transactions.
 
-<!-- in depth -->
+<!-- ❌ trigger on the use of in depth -->
 The article provided an in depth analysis of the housing crash.
 
-<!-- OAuth 2.0 -->
+<!-- ❌ trigger on the use of OAuth/OAuth2 -->
 Our API uses OAuth for authentication.
-Oauth supports multiple grant types.
+Does OAuth 2 support multiple grant types?
+OIDC relies on OAuth 2.
+<!-- ✅ ignore on the use of OAuth 2.0 -->
+OAuth 2.0 supports multiple grant types.
 
 <!-- on demand -->
 I prefer watching movies on demand.
