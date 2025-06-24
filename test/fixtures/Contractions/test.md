@@ -1,142 +1,142 @@
 # Contractions
 
-<!-- a11y -->
+<!-- ❌ trigger on the use of a11y -->
 Accessible content benefits everyone - embrace a11y.
 
-<!-- aka -->
+<!-- ❌ trigger on the use of aka -->
 The artist, aka Banksy, remains anonymous.
 She goes by the name Kate, a.k.a. Katherine.
 
-<!-- approx. -->
+<!-- ❌ trigger on the use of approx. -->
 The population of that city is approx. 1 million.
 
-<!-- authN -->
+<!-- ❌ trigger on the use of authN -->
 Implementing multi-factor authN adds an extra layer of security.
 
-<!-- authZ -->
+<!-- ❌ trigger on the use of authZ -->
 Role-based authZ allows administrators to assign permissions based on job responsibilities.
 
-<!-- g11n -->
+<!-- ❌ trigger on the use of g11n -->
 Effective g11n strategies can help companies expand their global reach.
 
-<!-- he'd -->
+<!-- ❌ trigger on the use of he'd -->
 He'd already finished his homework before dinner.
 He'd like to go to the movies tonight.
 
-<!-- he'll -->
+<!-- ❌ trigger on the use of he'll -->
 He'll be here soon, so please wait for him patiently.
 
-<!-- here'd -->
+<!-- ❌ trigger on the use of here'd -->
 Here'd been where we parked the car.
 Here'd we go again with another delay.
 
-<!-- how'd -->
+<!-- ❌ trigger on the use of how'd -->
 How'd you get here so fast?
 How'd you feel about going on a trip?
 
-<!-- I'd -->
+<!-- ❌ trigger on the use of I'd -->
 I'd visited Paris once before, but I'd like to go again.
 
-<!-- i18n -->
+<!-- ❌ trigger on the use of i18n -->
 The i18n framework we use simplifies the process of translating our website.
 
-<!-- it'd -->
+<!-- ❌ trigger on the use of it'd -->
 It'd been a while since I visited the school.
 It'd be great if you could help me with this project.
 
-<!-- it'll -->
+<!-- ❌ trigger on the use of it'll -->
 It'll take about an hour to drive to the airport.
 
-<!-- k8s -->
+<!-- ❌ trigger on the use of k8s -->
 We use k8s to orchestrate Docker containers across multiple nodes.
 
-<!-- l10n -->
+<!-- ❌ trigger on the use of l10n -->
 The l10n team is responsible for adapting the app for different cultural preferences.
 
-<!-- p13n -->
+<!-- ❌ trigger on the use of p13n -->
 The fitness app's p13n features adapt workout plans to match your fitness level and goals.
 
-<!-- regex -->
+<!-- ❌ trigger on the use of regex -->
 I applied a regex to parse and extract data from a large log file.
 
-<!-- she'd -->
+<!-- ❌ trigger on the use of she'd -->
 She'd already left by the time I arrived.
 She'd love to join us for dinner tonight.
 
-<!-- she'll -->
+<!-- ❌ trigger on the use of she'll -->
 She'll probably choose the red dress for the party.
 
-<!-- somebody'd -->
+<!-- ❌ trigger on the use of somebody'd -->
 Somebody'd be thrilled to hear about your promotion.
 Somebody'd left their umbrella on the bus yesterday.
 
-<!-- someone'd -->
+<!-- ❌ trigger on the use of someone'd -->
 Someone'd have to be crazy to try that stunt.
 Someone'd been looking for you.
 
-<!-- that'd -->
+<!-- ❌ trigger on the use of that'd -->
 I remember that'd been a difficult decision for him.
 That'd have been a disastrous mistake.
 
-<!-- there'd -->
+<!-- ❌ trigger on the use of there'd -->
 There'd always been a strong sense of community in that neighborhood.
 There'd be no problem if you arrive a bit earlier.
 
-<!-- they'd -->
+<!-- ❌ trigger on the use of they'd -->
 I heard they'd finished the project ahead of schedule.
 They'd love to join us for dinner tonight.
 
-<!-- they'll -->
+<!-- ❌ trigger on the use of they'll -->
 If they finish their work early, they'll join us for dinner.
 
-<!-- we'd -->
+<!-- ❌ trigger on the use of we'd -->
 We'd love to join you for dinner tomorrow.
 We'd already finished our homework by the time you called.
 
-<!-- what'd -->
+<!-- ❌ trigger on the use of what'd -->
 What'd you do over the weekend?
 
-<!-- what'll -->
+<!-- ❌ trigger on the use of what'll -->
 What'll it cost to repair the car?
 
-<!-- when'd -->
+<!-- ❌ trigger on the use of when'd -->
 When'd they announce the winner?
 
-<!-- when's -->
+<!-- ❌ trigger on the use of when's -->
 When's your birthday?
 When's the last time it has snowed this much in our area?
 
-<!-- when'll -->
+<!-- ❌ trigger on the use of when'll -->
 When'll we have another meeting?
 
-<!-- where'd -->
+<!-- ❌ trigger on the use of where'd -->
 Where'd you learn to dance like that?
 
-<!-- where's -->
+<!-- ❌ trigger on the use of where's -->
 Where's the nearest gas station?
 Where's all the excitement gone? This party was supposed to be fun.
 
-<!-- where'll -->
+<!-- ❌ trigger on the use of where'll -->
 Where'll you go for your next holiday?
 
-<!-- which'd -->
+<!-- ❌ trigger on the use of which'd -->
 Which'd you rather have, coffee or tea?
 
-<!-- who'd -->
+<!-- ❌ trigger on the use of who'd -->
 Who'd you think will win the election?
 
-<!-- why'd -->
+<!-- ❌ trigger on the use of why'd -->
 Why'd he say that to you?
 
-<!-- why's -->
+<!-- ❌ trigger on the use of why's -->
 Why's the internet connection so slow?
 
-<!-- w/ -->
+<!-- ❌ trigger on the use of w/ -->
 I am going w/ my friends to the concert tonight.
 
-<!-- w/o -->
+<!-- ❌ trigger on the use of w/o -->
 Please complete the form w/o any errors.
 
-<!-- you'd -->
+<!-- ❌ trigger on the use of you'd -->
 You'd better hurry if you want to catch the train.
 If you'd told me earlier, I could have helped you.
