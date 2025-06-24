@@ -1,5 +1,8 @@
-test.md:3:24:Prim.AMPM:Use 'am' or 'pm' else 'a.m.' or 'p.m.' (preceded by a space).
-test.md:4:33:Prim.AMPM:Use 'am' or 'pm' else 'a.m.' or 'p.m.' (preceded by a space).
-test.md:4:41:Prim.AMPM:Use 'am' or 'pm' else 'a.m.' or 'p.m.' (preceded by a space).
-test.md:5:33:Prim.AMPM:Use 'am' or 'pm' else 'a.m.' or 'p.m.' (preceded by a space).
-test.md:6:30:Prim.AMPM:Use 'am' or 'pm' else 'a.m.' or 'p.m.' (preceded by a space).
+test.md:4:24:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:5:20:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:8:26:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:8:35:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:11:30:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:11:55:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:14:30:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
+test.md:15:28:Prim.AMPM:Use 'am / pm' else 'a.m. / p.m.' (preceded by a space).
