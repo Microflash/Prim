@@ -33,6 +33,8 @@ swap:
   synch: sync
   testcases?: test case|test cases
   unbloat: debloat
+  unbloated: debloated
+  unbloating: debloating
   url:  URL
   URL for: URL of
   an URL: a URL

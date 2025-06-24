@@ -65,56 +65,60 @@ The article provided an in depth analysis of the housing crash.
 Our API uses OAuth for authentication.
 Does OAuth 2 support multiple grant types?
 OIDC relies on OAuth 2.
-<!-- ✅ ignore on the use of OAuth 2.0 -->
+<!-- ✅ ignore the use of OAuth 2.0 -->
 OAuth 2.0 supports multiple grant types.
 
-<!-- on demand -->
+<!-- ❌ trigger on the use of ok -->
+Is everything ok?
+<!-- ✅ ignore the use of OK -->
+Calm down. Things would be OK.
+
+<!-- ❌ trigger on the use of on demand -->
 I prefer watching movies on demand.
 
-<!-- OK -->
-Is everything ok?
-
-<!-- open-source -->
+<!-- ❌ trigger on the use of open-source -->
 I contributed a new feature to an open-source project.
 
-<!-- path -->
+<!-- ❌ trigger on the use of file path/path name -->
 Check the file path to locate the document.
 Copy and paste the full path names to navigate to the desired folder.
 
-<!-- phone -->
+<!-- ❌ trigger on the use of cell phone/smartphone -->
 Have you seen my cell phone?
 My smartphone is running low on battery.
 
-<!-- quotation mark -->
+<!-- ❌ trigger on the use of quote mark -->
 You can use quote marks to format in-text citations.
 Use quotemark to set off a quotation from the text.
 
-<!-- scrollbar -->
+<!-- ❌ trigger on the use of scroll bar/scroll-bar -->
 Use the scroll bar to navigate through the document.
 The webpage had narrow scroll-bars.
 
-<!-- synch -->
+<!-- ❌ trigger on the use of synch -->
 The team needs to synch their schedules for the upcoming meeting.
 
-<!-- testcase -->
+<!-- ❌ trigger on the use of testcase -->
 The testcase failed due to unexpected input data.
 Before deploying updates, we run regression tests using previously defined testcases.
 
-<!-- unbloat -->
+<!-- ❌ trigger on the use of unbloat/unbloated/unbloating -->
 Anyone know a good script to unbloat Windows 11 after a fresh install?
+An Android phone can be unbloated using ADB.
+Shouldn't we think about unbloating our subscriptions?
 
-<!-- url -->
+<!-- ❌ trigger on the use of url/URL for/an URL -->
 Share the video url to let others view it online.
 The URL for the image file is embedded in the HTML code of the webpage.
 Hover on an URL to preview the page.
 
-<!-- usecase -->
+<!-- ❌ trigger on the use of usecase -->
 Can you provide a specific usecase where this technology would be beneficial?
 We analyzed the usecases to identify potential improvements.
 
-<!-- wifi -->
+<!-- ❌ trigger on the use of wifi/WiFi -->
 The cafe offers free wifi for customers.
 I can't finish my work without WiFi.
 
-<!-- World Wide Web -->
+<!-- ❌ trigger on the use of World Wide Web -->
 I'd better search the World Wide Web for a new recipe.

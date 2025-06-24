@@ -28,26 +28,28 @@ test.md:62:25:Prim.Consistency:Use 'in-depth' instead of 'in depth'.
 test.md:65:14:Prim.Consistency:Use 'OAuth 2.0' instead of 'OAuth'.
 test.md:66:6:Prim.Consistency:Use 'OAuth 2.0' instead of 'OAuth 2'.
 test.md:67:16:Prim.Consistency:Use 'OAuth 2.0' instead of 'OAuth 2'.
-test.md:72:26:Prim.Consistency:Use 'on-demand' instead of 'on demand'.
-test.md:75:15:Prim.Consistency:Use 'OK' instead of 'ok'.
-test.md:78:35:Prim.Consistency:Use 'open source' instead of 'open-source'.
-test.md:81:11:Prim.Consistency:Use 'path' or 'paths' instead of 'file path'.
-test.md:82:25:Prim.Consistency:Use 'path' or 'paths' instead of 'path names'.
-test.md:85:18:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'cell phone'.
-test.md:86:4:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'smartphone'.
-test.md:89:13:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
-test.md:90:5:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
-test.md:93:9:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
-test.md:94:24:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
-test.md:97:19:Prim.Consistency:Use 'sync' instead of 'synch'.
-test.md:100:5:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcase'.
-test.md:101:76:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcases'.
-test.md:104:30:Prim.Consistency:Use 'debloat' instead of 'unbloat'.
-test.md:107:17:Prim.Consistency:Use 'URL' instead of 'url'.
-test.md:108:5:Prim.Consistency:Use 'URL of' instead of 'URL for'.
-test.md:109:10:Prim.Consistency:Use 'a URL' instead of 'an URL'.
-test.md:112:28:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecase'.
-test.md:113:17:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecases'.
-test.md:116:22:Prim.Consistency:Use 'Wi-Fi' instead of 'wifi'.
-test.md:117:32:Prim.Consistency:Use 'Wi-Fi' instead of 'WiFi'.
-test.md:120:23:Prim.Consistency:Use 'web' instead of 'World Wide Web'.
+test.md:72:15:Prim.Consistency:Use 'OK' instead of 'ok'.
+test.md:77:26:Prim.Consistency:Use 'on-demand' instead of 'on demand'.
+test.md:80:35:Prim.Consistency:Use 'open source' instead of 'open-source'.
+test.md:83:11:Prim.Consistency:Use 'path' or 'paths' instead of 'file path'.
+test.md:84:25:Prim.Consistency:Use 'path' or 'paths' instead of 'path names'.
+test.md:87:18:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'cell phone'.
+test.md:88:4:Prim.Consistency:Use 'phone' or 'mobile phone' instead of 'smartphone'.
+test.md:91:13:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
+test.md:92:5:Prim.Consistency:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
+test.md:95:9:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:96:24:Prim.Consistency:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:99:19:Prim.Consistency:Use 'sync' instead of 'synch'.
+test.md:102:5:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:103:76:Prim.Consistency:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:106:30:Prim.Consistency:Use 'debloat' instead of 'unbloat'.
+test.md:107:25:Prim.Consistency:Use 'debloated' instead of 'unbloated'.
+test.md:108:26:Prim.Consistency:Use 'debloating' instead of 'unbloating'.
+test.md:111:17:Prim.Consistency:Use 'URL' instead of 'url'.
+test.md:112:5:Prim.Consistency:Use 'URL of' instead of 'URL for'.
+test.md:113:10:Prim.Consistency:Use 'a URL' instead of 'an URL'.
+test.md:116:28:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:117:17:Prim.Consistency:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:120:22:Prim.Consistency:Use 'Wi-Fi' instead of 'wifi'.
+test.md:121:32:Prim.Consistency:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:124:23:Prim.Consistency:Use 'web' instead of 'World Wide Web'.
