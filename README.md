@@ -22,7 +22,7 @@ MinAlertLevel = suggestion
 Packages = proselint, \
 https://github.com/Microflash/Prim/releases/latest/download/Prim.zip
 
-[README.md]
+[*.{md,txt}]
 BasedOnStyles = Vale, Prim, proselint
 ```
 
