@@ -1,12 +1,12 @@
 test.md:4:13:Prim.Latin:Avoid latin. Use 'around' or 'about' instead of 'circa'.
-test.md:8:20:Prim.Latin:Avoid latin. Use 'for example' instead of 'e.g.,'.
-test.md:9:33:Prim.Latin:Avoid latin. Use 'for example' instead of 'eg,'.
-test.md:12:38:Prim.Latin:Avoid latin. Use 'therefore' instead of 'ergo'.
-test.md:16:8:Prim.Latin:Avoid latin. Use 'and others' instead of 'et al.'.
-test.md:19:38:Prim.Latin:Avoid latin. Use 'and other(s)' instead of 'etc.'.
-test.md:22:20:Prim.Latin:Avoid latin. Use 'that is' instead of 'i.e.,'.
-test.md:23:33:Prim.Latin:Avoid latin. Use 'that is' instead of 'ie,'.
-test.md:26:22:Prim.Latin:Avoid latin. Use 'against' instead of 'vs.'.
-test.md:29:26:Prim.Latin:Avoid latin. Use 'against' instead of 'versus'.
-test.md:32:33:Prim.Latin:Avoid latin. Use 'over' or 'through' instead of 'via'.
-test.md:36:31:Prim.Latin:Avoid latin. Use 'namely' instead of 'viz.'.
+test.md:9:20:Prim.Latin:Avoid latin. Use 'for example' instead of 'e.g.,'.
+test.md:10:33:Prim.Latin:Avoid latin. Use 'for example' instead of 'eg,'.
+test.md:13:38:Prim.Latin:Avoid latin. Use 'therefore' instead of 'ergo'.
+test.md:18:8:Prim.Latin:Avoid latin. Use 'and others' instead of 'et al.'.
+test.md:21:38:Prim.Latin:Avoid latin. Use 'and other(s)' instead of 'etc.'.
+test.md:24:20:Prim.Latin:Avoid latin. Use 'that is' instead of 'i.e.,'.
+test.md:25:33:Prim.Latin:Avoid latin. Use 'that is' instead of 'ie,'.
+test.md:28:22:Prim.Latin:Avoid latin. Use 'against' instead of 'vs.'.
+test.md:31:26:Prim.Latin:Avoid latin. Use 'against' instead of 'versus'.
+test.md:34:33:Prim.Latin:Avoid latin. Use 'over' or 'through' instead of 'via'.
+test.md:38:31:Prim.Latin:Avoid latin. Use 'namely' instead of 'viz.'.
