@@ -1,2 +1,5 @@
-test.md:3:41:Prim.OxfordComma:Use the Oxford comma in 'flour, sugar, eggs and butter.'.
-test.md:5:20:Prim.OxfordComma:Use the Oxford comma in 'clothes, toiletries or books?'.
+test.md:4:1:Prim.OxfordComma:Use the Oxford comma in 'The ingredients for the recipe included flour, sugar, eggs and butter.'.
+test.md:5:1:Prim.OxfordComma:Use the Oxford comma in 'Should I first unpack my clothes, toiletries or books?'.
+test.md:8:1:Prim.OxfordComma:Use the Oxford comma in 'He enjoys reading, playing the guitar and hiking in his free time.'.
+test.md:9:1:Prim.OxfordComma:Use the Oxford comma in 'You can choose to visit the museum, go hiking or relax at home.'.
+test.md:10:9:Prim.OxfordComma:Use the Oxford comma in 't you try out fishing on the lake, taking a hike, reading on the beach or just lazing around?'.
