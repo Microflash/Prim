@@ -1,0 +1,56 @@
+extends: conditional
+message: "Spell out '%s', if it's unfamiliar to the audience."
+level: suggestion
+ignorecase: false
+first: '\b(?=\w{3,})(?=(?:\w*[A-Z]){2,})[A-Za-z]+\b(?!\s*\((?:[A-Z][a-z]+\s+)+\))'
+second: '(?:\b[A-Z][a-z]+\s+)+\(([A-Za-z]{3,})\)'
+exceptions:
+  - API
+  - AWS
+  - BIOS
+  - CAPTCHA
+  - CLI
+  - CSS
+  - CSV
+  - DEBUG
+  - DELETE
+  - ERROR
+  - FAQ
+  - GET
+  - GIF
+  - INFO
+  - HEAD
+  - HTML
+  - IDE
+  - JAR
+  - JDBC
+  - JDK
+  - JPA
+  - JPEG
+  - JSON
+  - JVM
+  - LaTeX
+  - MIT
+  - OEM
+  - OSS
+  - PATCH
+  - PIN
+  - PNG
+  - POST
+  - PUT
+  - ReCAPTCHA
+  - REST
+  - RSS
+  - SQL
+  - SVG
+  - TODO
+  - TRACE
+  - USB
+  - UTF
+  - WARN
+  - WebP
+  - WiFi
+  - XML
+  - YAML
+  - YML
+  - ZIP
