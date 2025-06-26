@@ -48,6 +48,9 @@ He configured his computer for a dual boot system with macOS and Windows.
 I shot you an e-mail earlier.
 E-mail me the meeting agenda when you have a chance.
 
+<!-- ❌ trigger on the use of enduser -->
+The environmental footprint of AI is often obscured from endusers.
+
 <!-- ❌ trigger on the use of hard copy -->
 Please provide a hard copy of the report.
 We store all our important documents as hard copies in case of emergencies.

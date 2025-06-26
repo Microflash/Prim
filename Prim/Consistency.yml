@@ -18,6 +18,7 @@ swap:
   down time: downtime
   (?:dualboot|dual boot): dual-boot
   e-mail: email
+  endusers?: end user|end users
   hard\s(copy|copies): hardcopy|hardcopies
   hardcoded: hard-coded
   HTTPs: HTTPS
