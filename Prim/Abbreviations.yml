@@ -2,25 +2,36 @@ extends: conditional
 message: "Spell out '%s', if it's unfamiliar to the audience."
 level: suggestion
 ignorecase: false
-first: '\b(?=\w{3,})(?=(?:\w*[A-Z]){2,})[A-Za-z]+\b(?!\s*\((?:[A-Z][a-z]+\s+)+\))'
+first: '\b(?=\w{3,})(?=(?:[A-Z][a-z]?){2,})(?!(?:[A-Z][a-z]+)+\b)[A-Za-z]{3,}\b'
 second: '(?:\b[A-Z][a-z]+\s+)+\(([A-Za-z]{3,})\)'
 exceptions:
+  - ABAC
   - API
   - AWS
   - BIOS
   - CAPTCHA
   - CLI
+  - CPU
   - CSS
   - CSV
   - DEBUG
   - DELETE
+  - DOM
+  - DOS
+  - DPI
+  - DSL
   - ERROR
   - FAQ
   - GET
   - GIF
+  - GPU
+  - GUI
+  - GUID
   - INFO
   - HEAD
   - HTML
+  - HTTP
+  - HTTPS
   - IDE
   - JAR
   - JDBC
@@ -28,29 +39,60 @@ exceptions:
   - JPA
   - JPEG
   - JSON
+  - JSX
   - JVM
+  - LAN
   - LaTeX
+  - LOL
   - MIT
+  - MVC
   - OEM
   - OSS
   - PATCH
+  - PATH
+  - PDF
+  - PHP
   - PIN
   - PNG
+  - POSIX
   - POST
   - PUT
+  - RAM
+  - RBAC
   - ReCAPTCHA
+  - REPL
   - REST
+  - ROM
   - RSS
+  - SCM
+  - SCSS
+  - SDK
+  - SFTP
   - SQL
+  - SSD
+  - SSH
+  - SSL
   - SVG
+  - TBD
+  - TCP
   - TODO
   - TRACE
+  - TTL
+  - UNIX
+  - URI
+  - URL
   - USB
   - UTF
+  - UUID
+  - VLAN
+  - VoLTE
+  - VoIP
+  - VPN
   - WARN
   - WebP
   - WiFi
   - XML
+  - XSS
   - YAML
   - YML
   - ZIP

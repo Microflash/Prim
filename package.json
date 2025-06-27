@@ -1,6 +1,6 @@
 {
 	"name": "prim",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"description": "A Vale-compatible prose style for non-native English speaker",
 	"type": "module",
 	"author": "Naiyer Asif (https://naiyerasif.com)",
@@ -14,5 +14,5 @@
 		"execa": "^9.6.0",
 		"vitest": "^3.2.4"
 	},
-	"packageManager": "pnpm@10.12.3"
+	"packageManager": "pnpm@10.12.4"
 }

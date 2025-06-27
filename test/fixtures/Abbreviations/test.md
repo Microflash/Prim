@@ -2,7 +2,7 @@
 
 <!-- ❌ trigger on abbreviations without full forms -->
 Our email service supports PGP.
-VoIP is widely used in corporate environments.
+Terraform is an open-source IaC tool by HashiCorp.
 Let's standardize this DoD.
 
 <!-- ✅ ignore abbreviations followed by full forms -->
@@ -34,3 +34,31 @@ The log level can be set to TRACE, DEBUG, INFO, WARN or ERROR.
 The OEM needs an OSS license, such as MIT.
 Encode the CSV with UTF for maximum compatibility.
 Unplug the USB drive to avoid rebooting into the BIOS.
+This GUI is built with JSX.
+The SDK comes with a nice DSL.
+Share the URL of the uploaded PDF.
+Bash is a POSIX shell.
+They installed DOS on the SSD to save cost.
+Put the location of the binary on the PATH.
+Is there any difference between a GUID and a UUID?
+The vendor supports both RBAC and ABAC authorizations.
+VoIP is widely used in corporate environments.
+You can make a call over VoLTE.
+LOL, the timing is still marked as TBD.
+You should kill some apps to free the RAM.
+What's the TTL of this cached URI?
+Oops, I mistakenly typed HTTP instead of HTTPS.
+The model will use the CPU if there's no dedicated GPU.
+You're still manipulating DOM using PHP?
+What's the DPI of this screen?
+Did you forget to renew the SSL certificate again?
+Do you use SCSS to manage your styles?
+Git is a popular open source distributed SCM.
+Java now comes with a REPL called `jshell`.
+Does your application use MVC or hexagonal architecture?
+Use SSH to connect to the remote UNIX machine.
+Using SFTP over VPN is just overkill.
+Sanitize user input to prevent XSS attacks.
+TCP guarantees the delivery of data and packets in the same order as they were sent.
+You can partition a LAN into multiple VLAN.
+In the past, ROM was truly read-only.
