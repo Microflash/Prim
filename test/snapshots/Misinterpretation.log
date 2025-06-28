@@ -1,0 +1,5 @@
+test.md:4:36:Prim.Misinterpretation:Use 'zero-day' or 'zero-days' instead of '0-day'.
+test.md:5:42:Prim.Misinterpretation:Use 'zero-day' or 'zero-days' instead of '0-days'.
+test.md:8:39:Prim.Misinterpretation:Use 'midnight' instead of '12 am'.
+test.md:11:30:Prim.Misinterpretation:Use 'noon' instead of '12 pm'.
+test.md:14:11:Prim.Misinterpretation:Use 'semiweekly' or 'fortnightly' instead of 'biweekly'.

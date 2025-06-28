@@ -1,0 +1,11 @@
+test.md:4:1:Prim.Verbosity:Use 'in fact' instead of 'As a matter of fact'.
+test.md:7:5:Prim.Verbosity:Use 'can' instead of 'has the ability to'.
+test.md:8:15:Prim.Verbosity:Use 'can' instead of 'has the capability to'.
+test.md:9:14:Prim.Verbosity:Use 'can' instead of 'has the capacity to'.
+test.md:12:31:Prim.Verbosity:Use 'instead of' instead of 'in lieu of'.
+test.md:15:6:Prim.Verbosity:Use 'modern' or 'latest' instead of 'state-of-the-art'.
+test.md:18:12:Prim.Verbosity:Use 'consider' instead of 'take into account'.
+test.md:19:10:Prim.Verbosity:Use 'considered' instead of 'taken into account'.
+test.md:20:11:Prim.Verbosity:Use 'considered' instead of 'took into account'.
+test.md:21:19:Prim.Verbosity:Use 'considering' instead of 'taking into account'.
+test.md:24:16:Prim.Verbosity:Use 'whether' instead of 'whether or not'.
