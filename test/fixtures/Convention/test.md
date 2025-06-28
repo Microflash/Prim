@@ -1,4 +1,4 @@
-# Consistency
+# Convention
 
 <!-- ❌ trigger on the use of 24/7 -->
 Our emergency hotline is staffed 24/7 for immediate assistance.
@@ -9,6 +9,9 @@ The movie was stunning in 3-D.
 <!-- ❌ trigger on the use of audio-book/audio book -->
 I use audio-books to learn new languages.
 This audio book is several hours long.
+
+<!-- ❌ trigger on the use of auto-correct -->
+You can turn off auto-correct in your keyboard settings.
 
 <!-- ❌ trigger on the use of autodetect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
@@ -39,6 +42,7 @@ Please use check marks to indicate your preferences.
 
 <!-- ❌ trigger on the use of down time -->
 His down time hobby was woodworking.
+The update won't require a down-time.
 
 <!-- ❌ trigger on the use of dualboot/dual boot -->
 My laptop has a dualboot setup for Windows and Linux.
@@ -50,19 +54,24 @@ E-mail me the meeting agenda when you have a chance.
 
 <!-- ❌ trigger on the use of enduser -->
 The environmental footprint of AI is often obscured from endusers.
+Enduser training will begin next week.
+
+<!-- ❌ trigger on the use of hardcoded -->
+The menu was hardcoded and could not be customized.
+The vulnerability was severe because the password was hard coded.
 
 <!-- ❌ trigger on the use of hard copy -->
 Please provide a hard copy of the report.
 We store all our important documents as hard copies in case of emergencies.
-
-<!-- ❌ trigger on the use of hardcoded -->
-The menu was hardcoded and could not be customized.
 
 <!-- ❌ trigger on the use of HTTPs -->
 Always use HTTPs for secure online transactions.
 
 <!-- ❌ trigger on the use of in depth -->
 The article provided an in depth analysis of the housing crash.
+
+<!-- ❌ trigger on the use of on demand -->
+I prefer watching movies on demand.
 
 <!-- ❌ trigger on the use of OAuth/OAuth2 -->
 Our API uses OAuth for authentication.
@@ -76,19 +85,9 @@ Is everything ok?
 <!-- ✅ ignore the use of OK -->
 Calm down. Things would be OK.
 
-<!-- ❌ trigger on the use of on demand -->
-I prefer watching movies on demand.
-
 <!-- ❌ trigger on the use of open-source -->
 I contributed a new feature to an open-source project.
-
-<!-- ❌ trigger on the use of file path/path name -->
-Check the file path to locate the document.
-Copy and paste the full path names to navigate to the desired folder.
-
-<!-- ❌ trigger on the use of cell phone/smartphone -->
-Have you seen my cell phone?
-My smartphone is running low on battery.
+Do you have an opensource portfolio?
 
 <!-- ❌ trigger on the use of quote mark -->
 You can use quote marks to format in-text citations.
@@ -97,6 +96,10 @@ Use quotemark to set off a quotation from the text.
 <!-- ❌ trigger on the use of scroll bar/scroll-bar -->
 Use the scroll bar to navigate through the document.
 The webpage had narrow scroll-bars.
+
+<!-- ❌ trigger on the use of spell check/spell-check -->
+Don't forget to spell check your essay.
+The spell-check didn't catch the typo.
 
 <!-- ❌ trigger on the use of synch -->
 The team needs to synch their schedules for the upcoming meeting.

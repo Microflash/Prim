@@ -1,0 +1,59 @@
+test.md:4:34:Prim.Convention:Use '24x7' instead of '24/7'.
+test.md:7:27:Prim.Convention:Use '3D' instead of '3-D'.
+test.md:10:7:Prim.Convention:Use 'audiobook' or 'audiobooks' instead of 'audio-books'.
+test.md:11:6:Prim.Convention:Use 'audiobook' or 'audiobooks' instead of 'audio book'.
+test.md:14:18:Prim.Convention:Use 'autocorrect' instead of 'auto-correct'.
+test.md:17:14:Prim.Convention:Use 'auto-detect' instead of 'autodetect'.
+test.md:20:24:Prim.Convention:Use 'backlight' instead of 'back light'.
+test.md:21:41:Prim.Convention:Use 'backlight' instead of 'back-light'.
+test.md:24:7:Prim.Convention:Use 'backslash' or 'backslashes' instead of 'back slash'.
+test.md:25:20:Prim.Convention:Use 'backslash' or 'backslashes' instead of 'back slashes'.
+test.md:28:5:Prim.Convention:Use 'bottleneck' or 'bottlenecks' instead of 'bottle necks'.
+test.md:29:30:Prim.Convention:Use 'bottleneck' or 'bottlenecks' instead of 'bottle-neck'.
+test.md:32:12:Prim.Convention:Use 'chatbot' or 'chatbots' instead of 'chat bot'.
+test.md:33:1:Prim.Convention:Use 'chatbot' or 'chatbots' instead of 'Chat-bots'.
+test.md:36:12:Prim.Convention:Use 'checklist' or 'checklists' instead of 'check list'.
+test.md:37:8:Prim.Convention:Use 'checklist' or 'checklists' instead of 'check lists'.
+test.md:40:17:Prim.Convention:Use 'checkmark' or 'checkmarks' instead of 'check mark'.
+test.md:41:12:Prim.Convention:Use 'checkmark' or 'checkmarks' instead of 'check marks'.
+test.md:44:5:Prim.Convention:Use 'downtime' instead of 'down time'.
+test.md:45:28:Prim.Convention:Use 'downtime' instead of 'down-time'.
+test.md:48:17:Prim.Convention:Use 'dual-boot' instead of 'dualboot'.
+test.md:49:34:Prim.Convention:Use 'dual-boot' instead of 'dual boot'.
+test.md:52:15:Prim.Convention:Use 'email' instead of 'e-mail'.
+test.md:53:1:Prim.Convention:Use 'email' instead of 'E-mail'.
+test.md:56:58:Prim.Convention:Use 'end users' or 'end-users' instead of 'endusers'.
+test.md:57:1:Prim.Convention:Use 'end user' or 'end-user' instead of 'Enduser'.
+test.md:60:14:Prim.Convention:Use 'hard-coded' instead of 'hardcoded'.
+test.md:61:55:Prim.Convention:Use 'hard-coded' instead of 'hard coded'.
+test.md:64:18:Prim.Convention:Use 'hardcopy' or 'hardcopies' instead of 'hard copy'.
+test.md:65:41:Prim.Convention:Use 'hardcopy' or 'hardcopies' instead of 'hard copies'.
+test.md:68:12:Prim.Convention:Use 'HTTPS' instead of 'HTTPs'.
+test.md:71:25:Prim.Convention:Use 'in-depth' instead of 'in depth'.
+test.md:74:26:Prim.Convention:Use 'on-demand' instead of 'on demand'.
+test.md:77:14:Prim.Convention:Use 'OAuth 2.0' instead of 'OAuth'.
+test.md:78:6:Prim.Convention:Use 'OAuth 2.0' instead of 'OAuth 2'.
+test.md:79:16:Prim.Convention:Use 'OAuth 2.0' instead of 'OAuth 2'.
+test.md:84:15:Prim.Convention:Use 'OK' instead of 'ok'.
+test.md:89:35:Prim.Convention:Use 'open source' instead of 'open-source'.
+test.md:90:16:Prim.Convention:Use 'open source' instead of 'opensource'.
+test.md:93:13:Prim.Convention:Use 'quotation mark' or 'quotation marks' instead of 'quote marks'.
+test.md:94:5:Prim.Convention:Use 'quotation mark' or 'quotation marks' instead of 'quotemark'.
+test.md:97:9:Prim.Convention:Use 'scrollbar' or 'scrollbars' instead of 'scroll bar'.
+test.md:98:24:Prim.Convention:Use 'scrollbar' or 'scrollbars' instead of 'scroll-bars'.
+test.md:101:17:Prim.Convention:Use 'spellcheck' instead of 'spell check'.
+test.md:102:5:Prim.Convention:Use 'spellcheck' instead of 'spell-check'.
+test.md:105:19:Prim.Convention:Use 'sync' instead of 'synch'.
+test.md:108:5:Prim.Convention:Use 'test case' or 'test cases' instead of 'testcase'.
+test.md:109:76:Prim.Convention:Use 'test case' or 'test cases' instead of 'testcases'.
+test.md:112:30:Prim.Convention:Use 'debloat' instead of 'unbloat'.
+test.md:113:25:Prim.Convention:Use 'debloated' instead of 'unbloated'.
+test.md:114:26:Prim.Convention:Use 'debloating' instead of 'unbloating'.
+test.md:117:17:Prim.Convention:Use 'URL' instead of 'url'.
+test.md:118:5:Prim.Convention:Use 'URL of' instead of 'URL for'.
+test.md:119:10:Prim.Convention:Use 'a URL' instead of 'an URL'.
+test.md:122:28:Prim.Convention:Use 'use case' or 'use cases' instead of 'usecase'.
+test.md:123:17:Prim.Convention:Use 'use case' or 'use cases' instead of 'usecases'.
+test.md:126:22:Prim.Convention:Use 'Wi-Fi' instead of 'wifi'.
+test.md:127:32:Prim.Convention:Use 'Wi-Fi' instead of 'WiFi'.
+test.md:130:23:Prim.Convention:Use 'web' instead of 'World Wide Web'.
