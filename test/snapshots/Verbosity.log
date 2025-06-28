@@ -1,11 +1,15 @@
 test.md:4:1:Prim.Verbosity:Use 'in fact' instead of 'As a matter of fact'.
-test.md:7:5:Prim.Verbosity:Use 'can' instead of 'has the ability to'.
-test.md:8:15:Prim.Verbosity:Use 'can' instead of 'has the capability to'.
-test.md:9:14:Prim.Verbosity:Use 'can' instead of 'has the capacity to'.
-test.md:12:31:Prim.Verbosity:Use 'instead of' instead of 'in lieu of'.
-test.md:15:6:Prim.Verbosity:Use 'modern' or 'latest' instead of 'state-of-the-art'.
-test.md:18:12:Prim.Verbosity:Use 'consider' instead of 'take into account'.
-test.md:19:10:Prim.Verbosity:Use 'considered' instead of 'taken into account'.
-test.md:20:11:Prim.Verbosity:Use 'considered' instead of 'took into account'.
-test.md:21:19:Prim.Verbosity:Use 'considering' instead of 'taking into account'.
-test.md:24:16:Prim.Verbosity:Use 'whether' instead of 'whether or not'.
+test.md:7:18:Prim.Verbosity:Use 'phone' instead of 'cell phone'.
+test.md:8:4:Prim.Verbosity:Use 'phone' instead of 'smartphone'.
+test.md:11:11:Prim.Verbosity:Use 'path' or 'paths' instead of 'file path'.
+test.md:12:25:Prim.Verbosity:Use 'path' or 'paths' instead of 'path names'.
+test.md:15:5:Prim.Verbosity:Use 'can' instead of 'has the ability to'.
+test.md:16:15:Prim.Verbosity:Use 'can' instead of 'has the capability to'.
+test.md:17:14:Prim.Verbosity:Use 'can' instead of 'has the capacity to'.
+test.md:20:31:Prim.Verbosity:Use 'instead of' instead of 'in lieu of'.
+test.md:23:6:Prim.Verbosity:Use 'modern' or 'latest' instead of 'state-of-the-art'.
+test.md:26:12:Prim.Verbosity:Use 'consider' instead of 'take into account'.
+test.md:27:10:Prim.Verbosity:Use 'considered' instead of 'taken into account'.
+test.md:28:11:Prim.Verbosity:Use 'considered' instead of 'took into account'.
+test.md:29:19:Prim.Verbosity:Use 'considering' instead of 'taking into account'.
+test.md:32:16:Prim.Verbosity:Use 'whether' instead of 'whether or not'.

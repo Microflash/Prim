@@ -6,6 +6,8 @@ action:
   name: replace
 swap:
   as a matter of fact: in fact
+  (?:cell ?phone|smart ?phone): phone
+  (?:file ?path|path ?name)s?: path|paths
   has the (?:ability|capability|capacity) to: can
   in lieu of: instead of
   state-of-the-art: modern|latest

@@ -3,6 +3,14 @@
 <!-- ❌ trigger on the use of as a matter of fact -->
 As a matter of fact, I did call you yesterday—twice.
 
+<!-- ❌ trigger on the use of cell phone/smartphone -->
+Have you seen my cell phone?
+My smartphone is running low on battery.
+
+<!-- ❌ trigger on the use of file path/path name -->
+Check the file path to locate the document.
+Copy and paste the full path names to navigate to the desired folder.
+
 <!-- ❌ trigger on the use of has the (ability, capability, capacity) to -->
 She has the ability to lead a team under pressure.
 This software has the capability to detect fraud in real time.
