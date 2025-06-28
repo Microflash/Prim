@@ -7,9 +7,10 @@ test.md:15:5:Prim.Verbosity:Use 'can' instead of 'has the ability to'.
 test.md:16:15:Prim.Verbosity:Use 'can' instead of 'has the capability to'.
 test.md:17:14:Prim.Verbosity:Use 'can' instead of 'has the capacity to'.
 test.md:20:31:Prim.Verbosity:Use 'instead of' instead of 'in lieu of'.
-test.md:23:6:Prim.Verbosity:Use 'modern' or 'latest' instead of 'state-of-the-art'.
-test.md:26:12:Prim.Verbosity:Use 'consider' instead of 'take into account'.
-test.md:27:10:Prim.Verbosity:Use 'considered' instead of 'taken into account'.
-test.md:28:11:Prim.Verbosity:Use 'considered' instead of 'took into account'.
-test.md:29:19:Prim.Verbosity:Use 'considering' instead of 'taking into account'.
-test.md:32:16:Prim.Verbosity:Use 'whether' instead of 'whether or not'.
+test.md:23:39:Prim.Verbosity:Use 'challenge', 'concern', 'difficulty', or 'issue' instead of 'pain points'.
+test.md:26:6:Prim.Verbosity:Use 'modern' or 'latest' instead of 'state-of-the-art'.
+test.md:29:12:Prim.Verbosity:Use 'consider' instead of 'take into account'.
+test.md:30:10:Prim.Verbosity:Use 'considered' instead of 'taken into account'.
+test.md:31:11:Prim.Verbosity:Use 'considered' instead of 'took into account'.
+test.md:32:19:Prim.Verbosity:Use 'considering' instead of 'taking into account'.
+test.md:35:16:Prim.Verbosity:Use 'whether' instead of 'whether or not'.

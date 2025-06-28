@@ -19,6 +19,9 @@ This country has the capacity to lead regional peace efforts.
 <!-- ❌ trigger on the use of in lieu of -->
 She was granted severance pay in lieu of notice.
 
+<!-- ❌ trigger on the use of pain point -->
+User feedback highlighted three major pain points.
+
 <!-- ❌ trigger on the use of state-of-the-art -->
 This state-of-the-art arena can host 7,000 fans.
 
