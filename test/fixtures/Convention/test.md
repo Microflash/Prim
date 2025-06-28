@@ -16,6 +16,9 @@ You can turn off auto-correct in your keyboard settings.
 <!-- ❌ trigger on the use of autodetect -->
 The camera's autodetect recognizes faces and adjusts focus accordingly.
 
+<!-- ❌ trigger on the use of autoupdate -->
+You can enable autoupdate in the settings.
+
 <!-- ❌ trigger on the use of back light/back-light -->
 I need a keyboard with back light.
 This phone can automatically adjust the back-light brightness.

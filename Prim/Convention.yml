@@ -10,6 +10,7 @@ swap:
   audio(?:-| )books?: audiobook|audiobooks
   auto-correct: autocorrect
   autodetect: auto-detect
+  autoupdate: auto-update
   back(?:-| )light: backlight
   back\s(slash|slashes): backslash|backslashes
   bottle(?:-| )necks?: bottleneck|bottlenecks
