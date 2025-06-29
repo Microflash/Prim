@@ -5,10 +5,11 @@ Our email service supports PGP.
 Terraform is an open-source IaC tool by HashiCorp.
 Let's standardize this DoD.
 
-<!-- ✅ ignore abbreviations followed by full forms -->
+<!-- ✅ ignore abbreviations followed by full forms and vice versa -->
 International Space Station (ISS) is a marvel of engineering.
 International Organization for Standardization (ISO) develops and publishes international standards.
 Since the identity column definition is part of DDL (Data Definition Language), it communicates the intent of restriction explicitly.
+OpenID Connect (OIDC) uses OAuth 2.0 under the hood.
 
 <!-- ✅ ignore two letter abbreviations -->
 Europe is trying to move away from US tech.
