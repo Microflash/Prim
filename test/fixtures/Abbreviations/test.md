@@ -62,3 +62,4 @@ Sanitize user input to prevent XSS attacks.
 TCP guarantees the delivery of data and packets in the same order as they were sent.
 You can partition a LAN into multiple VLAN.
 In the past, ROM was truly read-only.
+NVDA is an open source screen reader for Windows.
