@@ -8,6 +8,7 @@ Let's standardize this DoD.
 <!-- ✅ ignore abbreviations followed by full forms -->
 International Space Station (ISS) is a marvel of engineering.
 International Organization for Standardization (ISO) develops and publishes international standards.
+Since the identity column definition is part of DDL (Data Definition Language), it communicates the intent of restriction explicitly.
 
 <!-- ✅ ignore two letter abbreviations -->
 Europe is trying to move away from US tech.

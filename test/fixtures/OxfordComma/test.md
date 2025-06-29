@@ -12,3 +12,4 @@ Why don't you try out fishing on the lake, taking a hike, reading on the beach o
 <!-- ✅ ignore on the use of two items around and/or -->
 The improvements come in bits and pieces.
 You can choose to go fast or go smoothly.
+<!-- TODO: This site has no ads, no tracking or analytics, no sponsored posts, and no paywall. -->
