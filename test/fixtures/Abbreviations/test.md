@@ -64,3 +64,4 @@ TCP guarantees the delivery of data and packets in the same order as they were s
 You can partition a LAN into multiple VLAN.
 In the past, ROM was truly read-only.
 NVDA is an open source screen reader for Windows.
+OAuth 2.0 is a popular standard.
